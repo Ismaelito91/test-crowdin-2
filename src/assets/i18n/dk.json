@@ -8,9 +8,9 @@
       "UPDATE_APP": "Mettre à jour l'application"
    },
    "NO_CONNECTION": {
-      "TITLE": "Ça fait longtemps !",
-      "TEXT": "FantomApp a besoin d'une connexion Internet pour se remettre à jour. Reconnecte-toi puis réessaie.",
-      "CTA": "Réessayer"
+      "TITLE": "Det er længe siden!",
+      "TEXT": "FantomApp har brug for en internetforbindelse for at opdatere. Opret forbindelse igen, og prøv derefter igen.",
+      "CTA": "Prøv igen"
    },
    "COMMON": {
       "ORGANISATION": "CNIL",
