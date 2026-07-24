@@ -1,163 +1,163 @@
 {
    "APP": {
       "TITLE": "FantomApp",
-      "LOADING": "Φόρτωση...",
-      "ERROR": "Σφάλμα φόρτωσης εφαρμογής",
-      "INSTALL_APP": "Εγκατάσταση εφαρμογής",
-      "NEW_VERSION_AVAILABLE": "Νέα έκδοση διαθέσιμη",
-      "UPDATE_APP": "Ενημέρωση εφαρμογής"
+      "LOADING": "Loading...",
+      "ERROR": "Error loading application",
+      "INSTALL_APP": "Install the app'",
+      "NEW_VERSION_AVAILABLE": "New version available",
+      "UPDATE_APP": "Application update"
    },
    "NO_CONNECTION": {
-      "TITLE": "Ça fait longtemps !",
-      "TEXT": "FantomApp a besoin d'une connexion Internet pour se remettre à jour. Reconnecte-toi puis réessaie.",
-      "CTA": "Réessayer"
+      "TITLE": "",
+      "TEXT": "",
+      "CTA": ""
    },
    "COMMON": {
-      "ORGANISATION": "DPA",
-      "SAVE": "Αποθήκευση",
-      "CANCEL": "Ακύρωση",
-      "DELETE": "Διαγραφή",
-      "EDIT": "Επεξεργασία",
-      "CLOSE": "Κλείσιμο",
-      "SEARCH": "Αναζήτηση",
-      "BACK": "Πίσω",
-      "NEXT": "Επόμενο",
-      "PREVIOUS": "Προηγούμενο",
-      "CAROUSEL_PREVIOUS": "Précédent : {{slide}}",
-      "CAROUSEL_NEXT": "Suivant : {{slide}}",
-      "RESULTS": "Αποτελέσματα",
-      "HOME": "Αρχική",
-      "PROBLEM": "Πρόβλημα",
-      "TOOLS": "Εργαλεία",
-      "SECURE": "Μείνε ασφαλής",
-      "YES": "Ναι",
-      "NO": "Όχι",
-      "UNDERSTOOD": "Το κατάλαβα",
-      "DOWNLOAD": "Λήψη",
-      "COPY": "Αντιγραφή",
-      "COPIED": "Αντιγράφηκε!",
-      "OR": "ή",
-      "ACTIVE": "Ενεργό",
+      "ORGANISATION": "CNIL",
+      "SAVE": "Save",
+      "CANCEL": "Cancel",
+      "DELETE": "Delete",
+      "EDIT": "Edit",
+      "CLOSE": "Close",
+      "SEARCH": "Search",
+      "BACK": "Go Back",
+      "NEXT": "Next",
+      "PREVIOUS": "Previous",
+      "CAROUSEL_PREVIOUS": "Previous: {{slide}}",
+      "CAROUSEL_NEXT": "Next: {{slide}}",
+      "RESULTS": "Results",
+      "HOME": "Home",
+      "PROBLEM": "Problem",
+      "TOOLS": "Tools",
+      "SECURE": "Stay Safe",
+      "YES": "Yes",
+      "NO": "No",
+      "UNDERSTOOD": "Got it",
+      "DOWNLOAD": "Download",
+      "COPY": "Copy",
+      "COPIED": "Copied!",
+      "OR": "or",
+      "ACTIVE": "Active",
       "ARIA_LABEL": {
-         "HOME": "Μετάβαση στην Αρχική",
-         "PROBLEM": "Μετάβαση στο Πρόβλημα",
-         "TOOLS": "Μετάβαση στα Εργαλεία",
-         "SECURE": "Μετάβαση στο Προστατεύσου",
-         "MAIN_NAV": "Κυρίως μενού"
+         "HOME": "Go to Home",
+         "PROBLEM": "Go to Problem",
+         "TOOLS": "Go to Tools",
+         "SECURE": "Go to Secure myself",
+         "MAIN_NAV": "Main menu"
       }
    },
    "DESIGN_SYSTEM": {
       "STEPPER": {
-         "DESCRIPTION": "Ερώτηση {{ currentStep }} από {{ totalSteps }}"
+         "DESCRIPTION": "Question {{ currentStep }} out of {{ totalSteps }}"
       },
       "TAG_UNCLICKABLE": {
-         "IMPORTANT": "ΣΗΜΑΝΤΙΚΟ",
-         "SECONDARY": "ΔΕΥΤΕΡΟ ΒΗΜΑ"
+         "IMPORTANT": "IMPORTANT",
+         "SECONDARY": "SECOND STEP"
       },
       "TEMPLATE_MESSAGE": {
-         "BUTTON": "Αντιγραφή παραδείγματος"
+         "BUTTON": "Copy the example"
       }
    },
    "ONBOARDING": {
-      "CLOSE": "Κλείσιμο εισαγωγής",
-      "SKIP": "Παράλειψη",
-      "NEXT": "Επόμενο",
-      "PREVIOUS": "Πίσω",
-      "CONTINUE": "Συνέχεια",
-      "START_USING": "Έναρξη χρήσης",
-      "TAP_TO_CONTINUE": "Πάτησε για συνέχεια",
-      "WELCOME_TO": "Καλώς ήρθες στο",
-      "GHOST_MODE_EXPLANATION": "Εδώ σερφάρεις σε <span class=\"ghost-mode\">λειτουργία φαντάσματος</span>, κανείς δεν ξέρει ότι είσαι εδώ. Καμία πληροφορία σου δεν καταγράφεται. Είσαι ελεύθερος/η να εξερευνήσεις πώς να προστατεύσεις την ιδιωτικότητά σου.",
-      "PROGRESS": "Πρόοδος εισαγωγής",
-      "GO_TO_STEP": "Πήγαινε στο βήμα",
-      "COMPLETED_STEP": "Ολοκληρωμένο βήμα",
-      "CURRENT_STEP": "Τρέχον βήμα",
-      "FUTURE_STEP": "επόμενο βήμα",
-      "STEP_INFO": "Βήμα",
-      "OF": "Από",
+      "CLOSE": "Close the onboarding",
+      "SKIP": "Skip",
+      "NEXT": "Next",
+      "PREVIOUS": "Back",
+      "CONTINUE": "Continue",
+      "START_USING": "Start using it",
+      "TAP_TO_CONTINUE": "Tap to continue",
+      "WELCOME_TO": "Welcome to",
+      "GHOST_MODE_EXPLANATION": "Here you surf on <span class=\"ghost-mode\">ghost mode</span>, no one knows you're here. None of your information is recorded. You're free to explore how to protect your privacy.",
+      "PROGRESS": "Onboarding progress",
+      "GO_TO_STEP": "Go to step",
+      "COMPLETED_STEP": "Completed step",
+      "CURRENT_STEP": "Current step",
+      "FUTURE_STEP": "next step",
+      "STEP_INFO": "Step",
+      "OF": "On",
       "BUBBLE": {
-         "WELCOME": "Γεια! Είμαι εδώ για να σε καθοδηγήσω στην εφαρμογή!"
+         "WELCOME": "Hi! I'm here to guide you through the app!"
       },
       "STEP_TWO": {
-         "TITLE": "Χρειάζεσαι βοήθεια; <span aria-hidden=\"true\">🛟</span>",
-         "DESCRIPTION": "Μερικές φορές μπορεί να αντιμετωπίσουμε προβλήματα στο διαδίκτυο. Εδώ θα βρεις πληροφορίες και λύσεις."
+         "TITLE": "Do you need help? <span aria-hidden=\"true\">🛟</span>",
+         "DESCRIPTION": "Sometimes we can have problems online. Here, you will find information and solutions."
       },
       "STEP_THREE": {
-         "TITLE": "Εργαλεία <span aria-hidden=\"true\">🛠️</span>",
-         "DESCRIPTION": "Ισχυρός κωδικός πρόσβασης, προστατευμένη φωτογραφία, έλεγχος ονόματος χρήστη και βιογραφικού: πάρε τον έλεγχο της ιδιωτικότητάς σου!"
+         "TITLE": "Tools <span aria-hidden=\"true\">🛠️</span>",
+         "DESCRIPTION": "Strong password, protected photo, checked username and bio: take the control of your privacy!"
       },
       "STEP_FOUR": {
-         "TITLE": "Βασικές ρυθμίσεις <span aria-hidden=\"true\">⚙️</span>",
-         "DESCRIPTION": "Δεν είναι πάντα εύκολο να ασφαλίσεις τους λογαριασμούς σου... στο FantomApp θα βρεις πολλές συμβουλές."
+         "TITLE": "Essential settings <span aria-hidden=\"true\">⚙️</span>",
+         "DESCRIPTION": "It's not always easy to secrure your accounts... on FantomApp you'll find lot of tips."
       }
    },
    "USER_CONFIG_APP": {
-      "TITLE": "Εμφάνιση",
-      "SUBTITLE": "Επίλεξε την αγαπημένη σου προβολή συστήματος.",
+      "TITLE": "Appearence",
+      "SUBTITLE": "Choose your favourite system display.",
       "THEME": {
-         "DEFAULT": "Προεπιλεγμένο θέμα",
-         "LIGHT": "Φωτεινό θέμα",
-         "DARK": "Σκοτεινό θέμα",
-         "SYSTEM_SETTINGS": "Χρήση ρυθμίσεων συσκευής"
+         "DEFAULT": "Default theme",
+         "LIGHT": "Light theme",
+         "DARK": "Dark theme",
+         "SYSTEM_SETTINGS": "Use the same settings as your device"
       }
    },
    "HOME": {
-      "GREETING": "Γεια <span aria-hidden=\"true\">👋</span> Πώς μπορούμε να σε βοηθήσουμε;",
-      "APP_INFO_TITLE": "Σχετικά με την εφαρμογή",
-      "APPEARANCE": "Εμφάνιση",
-      "CHANGE_ICON": "Αλλαγή εικονιδίου",
-      "RESOURCES": "Πόροι",
-      "WHAT_IS_APP": "Σε τι χρησιμεύει αυτή η εφαρμογή;",
-      "RIGHTS": "Έχω δικαιώματα",
-      "ACCESSIBILITY": "FantomApp για όλους (Προσβασιμότητα)",
-      "TUTORIAL": "Δες ξανά το βίντεο καλωσορίσματος",
+      "GREETING": "Hi <span aria-hidden=\"true\">👋</span> How can we help you?",
+      "APP_INFO_TITLE": "About the app",
+      "APPEARANCE": "Appearence",
+      "CHANGE_ICON": "Change the icon",
+      "RESOURCES": "Resource",
+      "WHAT_IS_APP": "What is this app for? (Legal notices)",
+      "RIGHTS": "I have rights",
+      "ACCESSIBILITY": "FantomApp for all (Accessibility)",
+      "TUTORIAL": "Watch the welcoming tutorial again",
       "CARDS": {
-         "MAIN_TITLE": "Ασφάλιση των κοινωνικών μου δικτύων",
-         "VIEW_ALL": "Προβολή όλων",
-         "VIEW_ALL_ARIA": "Προβολή όλων των εργαλείων ασφαλείας",
+         "MAIN_TITLE": "Securing my socials",
+         "VIEW_ALL": "View all",
+         "VIEW_ALL_ARIA": "View all security tools",
          "PASSWORD_CHECK": {
-            "TITLE": "Δοκιμή του κωδικού μου",
-            "DESCRIPTION": "Πόσο χρόνο χρειάζεται ένας κυβερνοεγκληματίας για να σπάσει τον κωδικό σου;"
+            "TITLE": "Testing my password",
+            "DESCRIPTION": "How long a cybercriminal takes to crack your password?"
          },
          "BLUR_IMAGE": {
-            "TITLE": "Θόλωμα της φωτογραφίας μου",
-            "DESCRIPTION": "Ανωνυμοποίηση της εικόνας προφίλ μου"
+            "TITLE": "Blurring my picture",
+            "DESCRIPTION": "Anonymising my profile picture"
          },
          "PROBLEMS": {
-            "SECTION_TITLE": "Έχω πρόβλημα στο διαδίκτυο",
-            "VIEW_ALL_ARIA": "Προβολή όλων των καρτών προβλημάτων",
+            "SECTION_TITLE": "I have a problem online",
+            "VIEW_ALL_ARIA": "View all problem cards",
             "DELETE_CONTENT": {
-               "TITLE": "Θέλω να διαγράψω περιεχόμενο"
+               "TITLE": "I want to erase content"
             },
             "HARASSMENT": {
-               "TITLE": "Δέχομαι διαδικτυακό εκφοβισμό"
+               "TITLE": "I'm going through cyberbullying"
             }
          }
       },
       "USER_RIGHTS": {
-         "TITLE": "Έχω δικαιώματα",
+         "TITLE": "I have rights",
          "INTRO": {
-            "PARAGRAPH_1": "Ανεξάρτητα από την ηλικία σου, έχεις δικαιώματα και ιδιαίτερα το δικαίωμα στην προστασία των προσωπικών σου δεδομένων και της ιδιωτικότητάς σου.",
-            "PARAGRAPH_2": "Στο διαδίκτυο, μπορείς να αποφασίσεις τι φαίνεται για σένα και τι κάνουν τα μέσα κοινωνικής δικτύωσης με τις πληροφορίες σου."
+            "PARAGRAPH_1": "No matter your age, you have rights and particularly the right to protect your personal data and your privacy.",
+            "PARAGRAPH_2": "Online, you can decide what can be seen of you, and what the social media do with your information."
          },
          "CARDS": {
             "INCOGNITO": {
-               "TITLE": "<span aria-hidden=\"true\">🗑️</span> Δικαίωμα στη διαγραφή: Διατήρησε την ανωνυμία σου",
-               "PARAGRAPH_1": "Στο διαδίκτυο, έχεις το δικαίωμα να ζητήσεις <b>τη διαγραφή και την αφαίρεσή τους από τα αποτελέσματα των μηχανών αναζήτησης</b>. Συγκεκριμένα, αν θέλεις μια φωτογραφία, ένα βίντεο, ένα κείμενο δικό σου, το όνομά σου ή άλλα στοιχεία των προσωπικών σου δεδομένων να διαγραφούν ή να μην εμφανίζονται πλέον στις αναζητήσεις, μπορείς να το ζητήσεις από τους σχετικούς ιστότοπους.",
-               "PARAGRAPH_2": "Μπορείς να απευθυνθείς απευθείας στον ιστότοπο ή την πλατφόρμα. Εάν η πλατφόρμα δεν απαντήσει στο αίτημά σου εντός 1 μηνός, μπορείς να το αναφέρεις στην εθνική Αρχή Προστασίας Δεδομένων και να λάβεις βοήθεια για την επιβολή των δικαιωμάτων σου."
+               "TITLE": "<span aria-hidden=\"true\">🗑️</span> The right to erasure: Stay incognito",
+               "PARAGRAPH_1": "Online, you have the right to request <b>the erasure and dereferencing</b> of your data. Concretely, if you want a photo, a video, a text from you, your name, your first name or any other elements of your personal data to be deleted or to no longer appear in search engine queries, you can request it to the relevant sites.",
+               "PARAGRAPH_2": "You can address the site or platform directly. If the platform doesn't answer your requesti within 1 month, you can report it to you national Data Protection Authorities and get some help enforcing your rights."
             },
             "DATA_INFO": {
-               "TITLE": "<span aria-hidden=\"true\">ℹ️</span> Δικαίωμα στην ενημέρωση: ποιος κάνει τι με τα δεδομένα μου",
-               "PARAGRAPH": "Έχεις το δικαίωμα να γνωρίζεις τι κάνουν, <b>θέλουν να κάνουν ή σχεδιάζουν να κάνουν</b> οι ιστότοποι, τα παιχνίδια, οι εφαρμογές και άλλες πλατφόρμες με τα προσωπικά σου δεδομένα."
+               "TITLE": "<span aria-hidden=\"true\">ℹ️</span> The right to information: who does what with my data",
+               "PARAGRAPH": "You have the right to know what the sites, games, applications and other platforms do, <b>want to do or are planning to do with your personal data</b>."
             },
             "RIGHT_TO_OBJECT": {
-               "TITLE": "<span aria-hidden=\"true\">❌</span> Δικαίωμα εναντίωσης: κράτα τον έλεγχο των δεδομένων σου",
-               "PARAGRAPH": "Έχεις το δικαίωμα να <b>εναντιωθείς στη χρήση των δεδομένων σου</b> από ιστότοπους ή εφαρμογές (εκτός από πολύ συγκεκριμένες περιπτώσεις που προβλέπονται από τον νόμο)."
+               "TITLE": "<span aria-hidden=\"true\">❌</span> The right to opposition: keep control of your data",
+               "PARAGRAPH": "You have the right to <b>oppose to the use of your data</b> by websites or apps (except in very specific cases foreseen by law)."
             },
             "PORTABILITY": {
-               "TITLE": "<span aria-hidden=\"true\">🧳</span> Δικαίωμα στη φορητότητα: όπου θέλω, όποτε θέλω!",
-               "PARAGRAPH_1": "Έχεις ακόμα και το δικαίωμα να πάρεις <b>τα δεδομένα σου και να τα χρησιμοποιήσεις αλλού,</b> σε στυλ «click and collect»! Αυτό είναι η φορητότητα δεδομένων.",
-               "PARAGRAPH_2": "Τα ανακτάς και τα χρησιμοποιείς αλλού, σε άλλη υπηρεσία, αν θέλεις. Αυτό ισχύει για τις φωτογραφίες, τους ήχους ή τα βίντεό σου, ή για τα μαθήματά σου σε μια εφαρμογή σημειώσεων στον υπολογιστή σου."
+               "TITLE": "<span aria-hidden=\"true\">🧳</span> The right to portability: where I want, when I want!",
+               "PARAGRAPH_1": "You even have the right to carry <b>your data and use it elsewhere,</b> « in mode » « click and collect »! This is data portability.",
+               "PARAGRAPH_2": "You retrieve and use them elsewhere, with a competitor, if you want. This applies to your photos, audios or videos, or for your courses on a note-taking application on your computer."
             }
          }
       }
@@ -165,438 +165,441 @@
    "PROBLEMS": {
       "DELETE_CONTENT": {
          "CARD": {
-            "FIRST_TITLE": "ΔΙΑΓΡΑΦΗ ΠΕΡΙΕΧΟΜΕΝΟΥ",
-            "SECOND_TITLE": "Θέλω να διαγράψω περιεχόμενο",
-            "DESCRIPTION": "Αίτημα αφαίρεσης φωτογραφίας ή βίντεο που σε αφορά"
+            "FIRST_TITLE": "ERASING A CONTENT",
+            "SECOND_TITLE": "I want to erase content",
+            "DESCRIPTION": "Requesting the removal of a photo or a video about you"
          },
-         "TITLE": "Θέλω να διαγράψω περιεχόμενο",
-         "DESCRIPTION": "Σε ενοχλεί μια φωτογραφία, ένα βίντεο ή ένα σχόλιο όπου εμφανίζεσαι; Η αφαίρεσή του μπορεί να πάρει χρόνο, αλλά θα σε βοηθήσουμε να το αντιμετωπίσεις.<span aria-hidden=\"true\">🗑</span>",
+         "TITLE": "I want to erase content",
+         "DESCRIPTION": "A photo, video or comment where you appear is bothering you? Removing it can take time but we will help you go through this.<span aria-hidden=\"true\">🗑</span>",
          "REPORTED": {
-            "TITLE": "Έχεις αναφέρει το περιεχόμενο στο κοινωνικό δίκτυο / πλατφόρμα;",
+            "TITLE": "Have you reported the content to the social media / platform?",
             "NONE": {
                "ANSWERS": {
-                  "ANSWER_1_TITLE": "Ναι, <strong>έχω ήδη αναφέρει το περιεχόμενο</strong>",
-                  "ANSWER_2_TITLE": "Όχι, <strong>δεν έχω αναφέρει ακόμα το περιεχόμενο</strong>"
+                  "ANSWER_1_TITLE": "Yes, <strong>I already reported the content</strong>",
+                  "ANSWER_2_TITLE": "No, <strong>I haven't reported the content yet</strong>"
                }
             }
          },
          "VIOLENT": {
-            "TITLE": "Πρόκειται για βίαιο ή πολύ προσωπικό περιεχόμενο;",
+            "TITLE": "Is it a violent or intimate content?",
             "NONE": {
                "ANSWERS": {
-                  "ANSWER_1_TITLE": "Ναι",
-                  "ANSWER_2_TITLE": "Όχι"
+                  "ANSWER_1_TITLE": "Yes",
+                  "ANSWER_2_TITLE": "No"
                }
             }
          },
          "RESULTS": {
             "REPORTED_CONTENT": {
-               "TITLE": "Έχεις ήδη αναφέρει το περιεχόμενο;",
+               "TITLE": "You already have reported the content?",
                "P1": {
-                  "DESCRIPTION": "<span aria-hidden=\"true\">✅</span> Μπράβο! Έκανες πολύ <strong>καλά</strong> που ανέφερες το περιεχόμενο στην πλατφόρμα. <br /><br /><span aria-hidden=\"true\">✅</span> Τα κοινωνικά δίκτυα λαμβάνουν πολλές αναφορές και ο έλεγχός τους παίρνει χρόνο. Αλλά <strong>ακόμη και χωρίς άμεση απάντηση</strong> η αναφορά σου είναι σημαντική."
+                  "DESCRIPTION": "<span aria-hidden=\"true\">✅</span> Kudos! You had a <strong>very good reflex</strong> by reporting the content to the plateform. <br /><br /><span aria-hidden=\"true\">✅</span> Social medias receive a lot of reports and their moderation takes time. But <strong>even without an immediate answer</strong> your report is important."
                },
                "P2": {
-                  "TITLE_PART1": "Σε συμβουλεύουμε να υποβάλεις καταγγελία στην ",
-                  "TITLE_PART2": " εάν:",
-                  "TOOLTIP": "Η εθνική αρχή προστασίας δεδομένων που σε βοηθά να προστατεύσεις την ιδιωτικότητά σου στο διαδίκτυο.",
-                  "DESCRIPTION1": "Επικοινώνησες με το κοινωνικό δίκτυο και δεν σου έχουν απαντήσει <strong>εδώ και τουλάχιστον 1 μήνα</strong>",
-                  "DESCRIPTION2": "Το κοινωνικό δίκτυο σου απάντησε αλλά η απάντηση είναι <strong>ελλιπής</strong> ή <strong>μη ικανοποιητική</strong>."
+                  "TITLE_PART1": "We advise you to file a complaint to the ",
+                  "TITLE_PART2": " if:",
+                  "TOOLTIP": "The national data protection authority that helps you to protect your online privacy.",
+                  "DESCRIPTION1": "You contacted the social network and they didn't answer you back <strong>for at least 1 month</strong>",
+                  "DESCRIPTION2": "The social network replied to you but the reply is <strong>incomplete</strong> or <strong>unsatisfying</strong>."
                },
-               "BUTTON": "Υποβολή καταγγελίας",
+               "BUTTON": "File a complaint",
                "TUTORIAL": {
                   "P1": {
-                     "TITLE": "Ποιος είναι ο ρόλος της <span class='text-(--color-24)'>DPA</span>;",
-                     "DESCRIPTION": "Ο ρόλος μιας αρχής προστασίας δεδομένων είναι να διαφυλάσσει τις ελευθερίες μας. Συμβουλεύει και ελέγχει τη χρήση προσωπικών δεδομένων από εταιρείες, φορείς και συλλόγους."
+                     "TITLE": "What's the role of the <span class='text-(--color-24)'>CNIL</span>?",
+                     "DESCRIPTION": "The role of a data protection authority is to preserve the liberties of each one of us. It advises and controls the use of personal data by companies, administrations and associations."
                   },
                   "P2": {
-                     "TITLE": "Γιατί πρέπει να περιμένω για <span class='text-(--color-24)'>1 μήνα</span> την απάντηση; <span aria-hidden=\"true\">⏱️</span>",
-                     "DESCRIPTION": "Είναι η νόμιμη προθεσμία. Αυτό σημαίνει ότι ο νόμος δίνει 1 μήνα στην πλατφόρμα για να σου απαντήσει (σύμφωνα με τον Γενικό Κανονισμό για την Προστασία Δεδομένων, ή ΓΚΠΔ)."
+                     "TITLE": "Why do I have to wait for an answer for <span class='text-(--color-24)'>1 month</span>? <span aria-hidden=\"true\">⏱️</span>",
+                     "DESCRIPTION": "It's the legal delay. That means that the law leaves 1 month to the platform to reply to you (according to the General Data Protection Regulation, or GDPR)."
                   },
                   "P3": {
-                     "TITLE": "Τι είναι μια <span class='text-(--color-24)'>ελλιπής ή λανθασμένη</span> απάντηση; <span aria-hidden=\"true\">📝</span>",
-                     "DESCRIPTION": "Η πλατφόρμα δεν έλαβε υπόψη όλο το αίτημά σου ή η απάντηση δεν ταιριάζει με αυτό που ζήτησες."
+                     "TITLE": "What's  an <span class='text-(--color-24)'>an incomplete or a wrong </span> reply? <span aria-hidden=\"true\">📝</span>",
+                     "DESCRIPTION": "The platform didn't take into account all of your request or the answer doesn't fit what you asked for."
                   }
                },
                "COMPLAINT": {
-                  "TITLE": "Προετοίμασε τα αποδεικτικά στοιχεία",
-                  "DESCRIPTION": "Αποθήκευσε φωτογραφίες από κάθε βήμα, θα είναι χρήσιμες για την υποβολή πιθανής καταγγελίας.",
+                  "TITLE": "Prepare the evidence",
+                  "DESCRIPTION": "Save photos of each steps, they will be useful to file a potential complaint.",
                   "P1": {
-                     "TITLE": "Παραδείγματα στιγμιότυπων οθόνης:",
-                     "DESCRIPTION": "<span aria-hidden=\"true\">🛑</span> <strong>Το περιεχόμενο προς διαγραφή</strong><br />Στιγμιότυπο του προβληματικού κειμένου, φωτογραφίας ή βίντεο<br /> <br /><span aria-hidden=\"true\">🌍</span> <strong>Η διεύθυνση του ιστότοπου</strong><br />Ένας σύνδεσμος προς τον ιστότοπο (URL)<br /> <br /><span aria-hidden=\"true\">ℹ️</span> <strong>Πληροφορίες για το άτομο που δημοσίευσε το περιεχόμενο</strong><br />Ένας σύνδεσμος προς το προφίλ του<br /><br /><span aria-hidden=\"true\">✉</span>️ <strong>Το αίτημά σου για διαγραφή</strong><br />- Στιγμιότυπα του κειμένου όπου ζητάς τη διαγραφή<br />- Στιγμιότυπα της απάντησης (αν υπάρχει)"
+                     "TITLE": "Examples of screenshots:",
+                     "DESCRIPTION": "<span aria-hidden=\"true\">🛑</span> <strong>The content to delete</strong><br />Screenshot of the problematic text, photo or video<br /> <br /><span aria-hidden=\"true\">🌍</span> <strong>The website address</strong><br />A link to the website (URL)<br /> <br /><span aria-hidden=\"true\">ℹ️</span> <strong>Information about the person who posted the content</strong><br />A link to their profile<br /><br /><span aria-hidden=\"true\">✉</span>️ <strong>Your requeste of deletion</strong><br />- Screenshots of the text where you are requesting the deletion<br />- Screenshots of the reply (if there is one)"
                   },
-                  "BUTTON": "Πρόσβαση στη φόρμα",
-                  "LINK": "https://www.dpa.gr/el/polites/katagelia_stin_arxi"
+                  "BUTTON": "Access the form",
+                  "LINK": ""
                }
             },
             "UNREPORTED_CONTENT": {
-               "TITLE": "Δεν έχεις αναφέρει ακόμα το περιεχόμενο;",
+               "TITLE": "You haven't reported the content yet?",
                "P1": {
-                  "TITLE": "Το πρώτο βήμα είναι να το αναφέρεις στο κοινωνικό δίκτυο.",
-                  "DESCRIPTION": "Κράτησε προσεκτικά όλα τα αποδεικτικά στοιχεία της αναφοράς σου. Εάν το κοινωνικό δίκτυο δεν σου απαντήσει εντός <strong>1 μηνός</strong>, μπορείς να υποβάλεις αναφορά στη DPA στο:"
+                  "TITLE": "The first step is to report it to the social media.",
+                  "DESCRIPTION": "Carefully keep all the evidence of your report. If the social media doesn't answer you within <strong>1 month</strong>, you can file report to the data protection authority on the:"
                },
                "CONTACTS": {
-                  "TITLE": "Επαφές Κοινωνικών Δικτύων",
+                  "TITLE": "Social Media contacts",
                   "SOCIAL_MEDIA": {
                      "INSTAGRAM": {
                         "TITLE": "Instagram",
                         "LINK": {
-                           "TITLE": "Αναφορά παραβίασης της ιδιωτικότητάς σου στο Instagram ή Threads",
+                           "TITLE": "Report a Violation of your Privacy on Instagram or Threads",
                            "DESCRIPTION": "https://help.instagram.com/contact/512241091300432"
                         },
-                        "BUTTON": "Πώς να συμπληρώσεις τη φόρμα;"
+                        "BUTTON": "How to fill out the form?"
                      },
                      "SNAPCHAT": {
                         "TITLE": "Snapchat",
                         "LINK": {
-                           "TITLE": "Αναφορά κατάχρησης ή παράνομου περιεχομένου στο Snapchat",
-                           "DESCRIPTION": "https://help.snapchat.com/hc/el/articles/7012399221652-%CE%A0%CF%8E%CF%82-%CE%B1%CE%BD%CE%B1%CF%86%CE%AD%CF%81%CF%89-%CE%BA%CE%B1%CF%84%CE%AC%CF%87%CF%81%CE%B7%CF%83%CE%B7-%CF%80%CE%B1%CF%81%CE%AC%CE%BD%CE%BF%CE%BC%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%AE-%CE%AC%CE%BB%CE%BB%CE%B5%CF%82-%CF%80%CE%B1%CF%81%CE%B1%CE%B2%CE%B9%CE%AC%CF%83%CE%B5%CE%B9%CF%82-%CF%83%CF%84%CE%BF-Snapchat"
+                           "TITLE": "Reporting abuse or illegal conent on Snapchat",
+                           "DESCRIPTION": "https://help.snapchat.com/hc/en-gb/articles/7012399221652-How-do-I-report-abuse-or-illegal-content-on-Snapchat"
                         },
                         "MAIL": {
-                           "TITLE": "Επικοινωνία με το Snapchat μέσω email",
+                           "TITLE": "Contacting Snapchat by email",
                            "DESCRIPTION": "dpo@snapchat.com"
                         },
-                        "BUTTON": "Πώς να αναφέρεις κάτι στο Snapchat"
+                        "BUTTON": "How to report something on Snapchat"
                      },
                      "TIKTOK": {
                         "TITLE": "TikTok",
                         "LINK": {
-                           "TITLE": "Υποβολή αιτήματος απορρήτου",
+                           "TITLE": "Submit a privacy request",
                            "DESCRIPTION": "https://www.tiktok.com/legal/report/privacy/webform/en"
                         },
-                        "BUTTON": "Πώς να συμπληρώσεις τη φόρμα;"
+                        "BUTTON": "How to fill out the form?"
                      },
                      "X": {
                         "TITLE": "X",
                         "LINK": {
-                           "TITLE": "Ερωτήματα πολιτικής απορρήτου X",
+                           "TITLE": "X privacy policy inquiries",
                            "DESCRIPTION": "https://help.x.com/en/forms/privacy/question"
                         },
-                        "BUTTON": "Πώς να συμπληρώσεις τη φόρμα;"
+                        "BUTTON": "How to fill out the form?"
                      },
                      "FACEBOOK": {
                         "TITLE": "Facebook",
                         "LINK": {
-                           "TITLE": "Φόρμες επικοινωνίας",
+                           "TITLE": "Contac forms",
                            "DESCRIPTION": "https://www.facebook.com/help/contact/954059743194940"
                         },
-                        "BUTTON": "Πώς να συμπληρώσεις τη φόρμα;"
+                        "BUTTON": "How to fill out the form?"
                      }
                   }
                },
                "FACEBOOK": {
-                  "TITLE": "Πώς να συμπληρώσεις τη φόρμα; - Facebook",
-                  "DESCRIPTION": "Εδώ δες τι πρέπει να κάνεις για να συμπληρώσεις τη φόρμα παρακάτω:",
+                  "TITLE": "How to fill out the form? - Facebook",
+                  "DESCRIPTION": "Here is what you need to do to fill out the form below:",
                   "P1": {
-                     "TITLE": "1. Επίλεξε τη χώρα που ζεις στο “Please select your country”"
+                     "TITLE": "1. Select the country where you live in “Please select your country”"
                   },
                   "P2": {
-                     "TITLE": "2. Γράψε το επώνυμο και το όνομά σου:"
+                     "TITLE": "2. Write your surname and name:"
                   },
                   "P3": {
-                     "TITLE": "3. Δήλωσε το email σου"
+                     "TITLE": "3. Indicate your email"
                   },
                   "P4": {
-                     "TITLE": "4. Επίλεξε “My Privacy” στο “Who's privacy is being violated?”"
+                     "TITLE": "4. Select “My Privacy” in “Who's privacy is being violated?”"
                   },
                   "P5": {
-                     "TITLE": "5. Επίλεξε “Yes” στο “Are you under the age of 18?”"
+                     "TITLE": "5. Select “Yes” for “Are you under the age of 18?”"
                   },
                   "P6": {
-                     "TITLE": "6. Επίλεξε “Yes” αν έχεις το URL του περιεχομένου που θες να αναφέρεις"
+                     "TITLE": "6. Select “Yes” if you have the URL of the content you want to report"
                   },
                   "P7": {
-                     "TITLE": "7. Δήλωσε τον τύπο περιεχομένου"
+                     "TITLE": "7. Indicate the type of content"
                   },
                   "P8": {
-                     "TITLE": "8. Επικόλλησε το URL του αναφερόμενου περιεχομένου"
+                     "TITLE": "8. Paste the URL of the reported content"
                   },
                   "ENRICHED_LINK": {
-                     "TITLE": "Φόρμες επικοινωνίας",
+                     "TITLE": "Contact forms",
                      "DESCRIPTION": "https://www.facebook.com/help/contact/954059743194940"
                   }
                },
                "INSTAGRAM": {
-                  "TITLE": "Πώς να συμπληρώσεις τη φόρμα; - Instagram",
-                  "DESCRIPTION": "Εδώ δες τι πρέπει να κάνεις για να συμπληρώσεις τη φόρμα παρακάτω:",
+                  "TITLE": "How to fill the form? - Instagram",
+                  "DESCRIPTION": "Here is what you need to do to fill out the form below:",
                   "P1": {
-                     "TITLE": "1. Επίλεξε τη χώρα που ζεις"
+                     "TITLE": "1. Select the country where you live"
                   },
                   "P2": {
-                     "TITLE": "2. Γράψε το όνομα και το επώνυμό σου"
+                     "TITLE": "2. Write your name and surname"
                   },
                   "P3": {
-                     "TITLE": "3. Γράψε τη διεύθυνση email σου"
+                     "TITLE": "3. Write your email address"
                   },
                   "P4": {
-                     "TITLE": "4. Επίλεξε “Self” στην ερώτηση “Who are you reporting for?”"
+                     "TITLE": "4. Seclect “Self” at the question “Who are you reporting for?”"
                   },
                   "P5": {
-                     "TITLE": "5. Επίλεξε “Yes, I am under 18”"
+                     "TITLE": "5. Select “Yes, I am under 18”"
                   },
                   "P6": {
-                     "TITLE": "6. Επικόλλησε το URL του περιεχομένου που θες να αναφέρεις."
+                     "TITLE": "6. Paste the URL of the content you want to report."
                   },
                   "ENRICHED_LINK": {
-                     "TITLE": "Αναφορά παραβίασης της ιδιωτικότητάς σου στο Instagram ή Threads",
+                     "TITLE": "Report a Violation of your Privacy on Instagram or Threads",
                      "DESCRIPTION": "https://help.instagram.com/contact/1716697545776727"
                   }
                },
                "X": {
-                  "TITLE": "Πώς να συμπληρώσεις τη φόρμα - X",
-                  "DESCRIPTION": "Εδώ δες τι πρέπει να κάνεις για να συμπληρώσεις τη φόρμα παρακάτω:",
+                  "TITLE": "How to fill out the form - X",
+                  "DESCRIPTION": "Here is what you need to do to fill out the form below:",
                   "P1": {
-                     "TITLE": "1. Επίλεξε “I want to ask a question regarding privacy on X” στο “How can we help?”"
+                     "TITLE": "1. Select “I want to ask a question regarding privacy on X” in “How can we help?”"
                   },
                   "P2": {
-                     "TITLE": "2. Επίλεξε “Delete X account data” στο “Please tell us more”"
+                     "TITLE": "2. Select “Delete X account data” in “Please tell us more”"
                   },
                   "P3": {
-                     "TITLE": "3. Αντίγραψε/επικόλλησε το παράδειγμα παρακάτω στο “Please enter your question” και εισήγαγε τις πληροφορίες σου στη θέση των [...] του παραδείγματος."
+                     "TITLE": "3. Copy/paste the example below in “Please enter your question” and insert your information instead of the [...] of the example."
                   },
                   "ENRICHED_LINK": {
-                     "TITLE": "Ερωτήματα πολιτικής απορρήτου X",
+                     "TITLE": "X privacy policy inquiries",
                      "DESCRIPTION": "https://help.x.com/en/forms/privacy/question"
                   }
                },
                "TIKTOK": {
-                  "TITLE": "Πώς να συμπληρώσεις τη φόρμα; - TikTok",
-                  "DESCRIPTION": "Εδώ δες τι πρέπει να κάνεις για να συμπληρώσεις τη φόρμα παρακάτω:",
+                  "TITLE": "How to fill out the form? - TikTok",
+                  "DESCRIPTION": "Here is what you need to do to fill out the form below:",
                   "P1": {
-                     "TITLE": "1. Γράψε τη διεύθυνση email σου"
+                     "TITLE": "1. Write your email address"
                   },
                   "P2": {
-                     "TITLE": "2. Επίλεξε τη χώρα που ζεις"
+                     "TITLE": "2. Select the country where you live"
                   },
                   "P3": {
-                     "TITLE": "3. Γράψε το όνομα χρήστη σου στο Tiktok"
+                     "TITLE": "3. Write your Tiktok username"
                   },
                   "P4": {
-                     "TITLE": "4. Επίλεξε “Exercise your rights under data portection laws” στο “Submit a request”"
+                     "TITLE": "4. Select “Exercise your rights under data portection laws” in “Submit a request”"
                   },
                   "P5": {
-                     "TITLE": "5. Επίλεξε “I have a question about exercising privacy and data protection rights” στο “Select a subcategory”"
+                     "TITLE": "5. Select “I have a question about exercising privacy and data protection rights” dans “Select a subcategory”"
                   },
                   "P6": {
-                     "TITLE": "6. Αντίγραψε/επικόλλησε το παράδειγμα παρακάτω στο “Please enter your question” και εισήγαγε τις πληροφορίες σου στη θέση των [...] του παραδείγματος."
+                     "TITLE": "6. Copy/paste the example below in “Please enter your question” and insert your information instead of the [...] of the example."
                   },
                   "ENRICHED_LINK": {
-                     "TITLE": "Ερωτήματα πολιτικής απορρήτου X",
+                     "TITLE": "X privacy policy inquiries",
                      "DESCRIPTION": "https://help.x.com/en/forms/privacy/question"
                   }
                },
                "SNAPCHAT": {
-                  "TITLE": "Παράδειγμα email - Snapchat",
-                  "DESCRIPTION": "Για να ζητήσεις διαγραφή, μπορείς να επικοινωνήσεις με τον Υπεύθυνο Προστασίας Δεδομένων (DPO).",
+                  "TITLE": "Example of e-mail - Snapchat",
+                  "DESCRIPTION": "To request a deletion, you can contact the Data Protection Officer (DPO).",
                   "P1": {
-                     "TITLE": "<span aria-hidden=\"true\">📝</span> Διεύθυνση email της επαφής"
+                     "TITLE": "<span aria-hidden=\"true\">📝</span> Email address of the contact"
                   }
                },
                "TEMPLATE_MESSAGE": {
-                  "TITLE": "<span aria-hidden=\"true\">📝</span> Παράδειγμα mail προς αποστολή",
-                  "DESCRIPTION": "Αξιότιμε Κύριε/Κυρία,<br><br>Πληροφορίες που με αφορούν μοιράζονται αυτή τη στιγμή στον ιστότοπό σας στις ακόλουθες σελίδες:<br><span style=\"color: var(--color-24);\">[Σύνδεσμος(οι) URL του περιεχομένου που επιθυμείτε να διαγράψετε]</span><br>. Επομένως, κατ' εφαρμογή των Άρθρων 21.1 και 17.1.c του Γενικού Κανονισμού για την Προστασία Δεδομένων (ΓΚΠΔ), σας ζητώ να διαγράψετε τα ακόλουθα προσωπικά δεδομένα που με αφορούν:<br><span style=\"color: var(--color-24);\">[περιγραφή των πληροφοριών προς διαγραφή]</span>.<br>Θα ήθελα αυτές οι πληροφορίες να διαγραφούν επειδή:<br><span style=\"color: var(--color-24);\">[λόγος διαγραφής]</span><br>επιπλέον, σας ευχαριστώ που θα λάβετε τα απαραίτητα μέτρα ώστε αυτές οι σελίδες να μην αναφέρονται πλέον στις μηχανές αναζήτησης (άρθρο 17.2 του ΓΚΠΔ). Παρακαλώ στείλτε την απάντησή σας το συντομότερο δυνατό και όχι αργότερα από έναν μήνα από την παραλαβή του αιτήματός μου (άρθρο 12.3 του ΓΚΠΔ).<br>Με εκτίμηση,"
+                  "TITLE": "<span aria-hidden=\"true\">📝</span> Example of mail to send",
+                  "DESCRIPTION": "Dear Sir/Madam,<br><br>Information about me is currently shared on your website on the follomwing pages:<br><span style=\"color: var(--color-24);\">[URL link(s) of the content you wish to delete]</span><br>. Therefore, in application of the Articles 21.1 and 17.1.c of the General Data Protection Regulation (GDPR), I ask you to please delete the following personal data concerning me:<br><span style=\"color: var(--color-24);\">[description of the information to be deleted]</span>.<br>I would like these information to be deleted because:<br><span style=\"color: var(--color-24);\">[suppression motive]</span><br>additionnaly, I thank you for taking the necessariy steps to ensure that these pages are no longer referenced by search engines (article 17.2 of the GDPR). Please send your response as soon as possible and no longer than a month from the receipt of my request (article 12.3 du RGPD).<br>Sincerely,"
                }
             },
             "VIOLENT_CONTENT": {
-               "TITLE": "Είναι βίαιο περιεχόμενο ή σε δείχνει γυμνό/ή;",
-               "DESCRIPTION": "Η διάδοση βίαιου ή σεξουαλικού περιεχομένου χωρίς τη συγκατάθεσή σου είναι πολύ σοβαρή και ο υπεύθυνος μπορεί να τιμωρηθεί.",
+               "TITLE": "Is it a violent content or is it showing you undressed?",
+               "DESCRIPTION": "The diffusion of violent content or sexual content without your consent is very serious and the person responsible can be punished.",
                "P1": {
-                  "TITLE": "Δεν είσαι μόνος/η",
-                  "DESCRIPTION": "Αυτό που σου συμβαίνει μπορεί να είναι πολύ δύσκολο να το περάσεις, αλλά στη ζωή, δεν είσαι ποτέ μόνος/η! Υπάρχουν πάντα λύσεις για να αλλάξουν τα πράγματα, και άνθρωποι για να σε βοηθήσουν. Μπορείς να το συζητήσεις με τους γονείς σου, έναν φίλο, ένα μέλος της οικογένειας, έναν καθηγητή ή έναν ενήλικα που εμπιστεύεσαι.<span aria-hidden=\"true\">🤝</span>"
+                  "TITLE": "You are not alone",
+                  "DESCRIPTION": "What is happening to you can be very complicated to go through, but in life, you're never alone! There are always solutions to change things, and people to help you navigate through this. You can talk about it with your parents, a friend, a family member, a professor or an adult whom you trust.<span aria-hidden=\"true\">🤝</span>"
                },
                "P2": {
-                  "TITLE": "Εύρεση βοήθειας",
-                  "DESCRIPTION": "<strong>Επαγγελματίες</strong> μπορούν επίσης να σε βοηθήσουν στη <strong>γραμμή βοήθειας της χώρας σου</strong>. Συνήθως ανώνυμα, εμπιστευτικά και δωρεάν. <span class=\"text-(--color-24)\"><strong>Κάλεσε μέχρι να απαντήσει κάποιος</strong>.</span>",
+                  "TITLE": "Finding help",
+                  "DESCRIPTION": "<strong>Professionnals</strong> can also help you at <strong>the hotline of your country</strong>. Often they are anonymous, confidential and free of charge. <span class=\"text-(--color-24)\"><strong>Call until someone picks up </strong>.</span>",
                   "LINK": {
-                     "TITLE": "Μίλα με μια γραμμή βοήθειας",
-                     "DESCRIPTION": "https://www.safeline.gr/"
+                     "TITLE": "Talk with a hotline",
+                     "DESCRIPTION": "https://www.inhope.org/EN#hotlineReferral"
                   },
                   "CALL": {
-                     "TITLE": "Γραμμή βοήθειας"
+                     "TITLE": "Hotline"
+                  },
+                  "MESSAGE": {
+                     "TITLE": "Hotline"
                   }
                },
                "P3": {
-                  "TITLE": "Υποβολή καταγγελίας",
-                  "DESCRIPTION": "Η επίσημη καταγγελία σού επιτρέπει να αναφέρεις στις αρχές τα περιστατικά στα οποία υπήρξες θύμα. Μπορείς να υποβάλεις καταγγελία πηγαίνοντας στο αστυνομικό τμήμα ή μέσω ταχυδρομείου.",
+                  "TITLE": "File a complaint",
+                  "DESCRIPTION": "The formal complaint allows you to report the facts you are victim of to the authorities. You can file a complaint by going to the police station or to a constabulary, or by post.",
                   "LINK": {
                      "TITLE": "Ma Sécurité | Ma Sécurité",
-                     "DESCRIPTION": "https://www.astynomia.gr/elliniki-astynomia/eidikes-ypiresies/diefthynsi-dioxis-kyvernoegklimatos/"
+                     "DESCRIPTION": "https://www.masecurite.interieur.gouv.fr/fr"
                   }
                },
                "BUTTON": {
-                  "REPORTED": "Υποβολή επίσημης καταγγελίας στην αρχή προστασίας δεδομένων της χώρας σου",
-                  "UNREPORTED": "Αναφορά περιεχομένου"
+                  "REPORTED": "Submit a formal complaint to the data protection authority of your country",
+                  "UNREPORTED": "Report the content"
                }
             }
          }
       },
       "HACKING": {
          "CARD": {
-            "FIRST_TITLE": "ΠΑΡΑΒΙΑΣΜΕΝΟΣ ΛΟΓΑΡΙΑΣΜΟΣ",
-            "SECOND_TITLE": "Ο λογαριασμός μου παραβιάστηκε",
-            "DESCRIPTION": "Ανάκτησε τον λογαριασμό σου ή κάτι άλλο"
+            "FIRST_TITLE": "HACKED ACCOUNT",
+            "SECOND_TITLE": "My account was hacked",
+            "DESCRIPTION": "Recover your account or something else"
          },
-         "TITLE": "Ο λογαριασμός μου παραβιάστηκε",
-         "DESCRIPTION": "Ο λογαριασμός σου αποσυνδέθηκε μόνος του ή δημοσιεύεται περιεχόμενο αυτόματα. Ίσως έχει παραβιαστεί.",
+         "TITLE": "My account was hacked",
+         "DESCRIPTION": "Your account disconnected itself or content is being published by itself. Maybe it was hacked.",
          "TUTORIAL": {
             "P1": {
                "EMOJI": "<span aria-hidden=\"true\">❌</span>",
-               "CONTENT": "Ο λογαριασμός μου <strong>αποσυνδέθηκε</strong> μόνος του και δεν έχω πλέον πρόσβαση"
+               "CONTENT": "My account <strong>disconnected</strong> itself and I can't access it anymore"
             },
             "P2": {
                "EMOJI": "<span aria-hidden=\"true\">🖼</span>️",
-               "CONTENT": "Κάποιο <strong>περιεχόμενο</strong> εμφανίστηκε στη ροή μου αλλά δεν είμαι εγώ που το δημοσίευσα"
+               "CONTENT": "<Some <strong>content</strong> appeared on my feed but I am not the one who published it"
             },
             "P3": {
                "EMOJI": "<span aria-hidden=\"true\">🔒</span>",
-               "CONTENT": "Ο <strong>κωδικός πρόσβασής</strong> μου δεν λειτουργεί πλέον"
+               "CONTENT": "My <strong>password</strong> doesn't work anymore"
             },
             "P4": {
                "EMOJI": "<span aria-hidden=\"true\">📩</span>",
-               "CONTENT": "Οι φίλοι μου έλαβαν μηνύματα δήθεν από εμένα, αλλά δεν είμαι εγώ που τους έστειλα <strong>τα μηνύματα</strong>"
+               "CONTENT": "My firends were contacted by supposedly me, but I'm not the one who sent them the <strong>text</strong>"
             },
             "P5": {
-               "CONTENT": "<strong>Τότε ο λογαριασμός σου μπορεί να έχει παραβιαστεί</strong>"
+               "CONTENT": "<strong>Then your acount may have been hacked</strong>"
             }
          },
          "SITUATION": {
-            "TITLE": "Ποια είναι η κατάστασή σου;",
+            "TITLE": "What's your situation?",
             "NONE": {
                "ANSWERS": {
-                  "ANSWER_1_TITLE": "Έχω <strong>ακόμα πρόσβαση</strong> στον λογαριασμό μου",
-                  "ANSWER_2_TITLE": "Δεν έχω <strong>πλέον πρόσβαση</strong> στον λογαριασμό μου"
+                  "ANSWER_1_TITLE": "I <strong>still have access</strong> to my account",
+                  "ANSWER_2_TITLE": "I <strong>no longer have access</strong> to my account"
                }
             }
          },
          "RESULTS": {
             "HAVE_ACCESS": {
-               "TITLE": "Έχω ακόμα πρόσβαση στον λογαριασμό μου",
-               "DESCRIPTION": "Μερικά βήματα για να ανακτήσεις τον έλεγχο του λογαριασμού σου",
+               "TITLE": "I still have access to my account",
+               "DESCRIPTION": "Some steps to take back the control of your account",
                "ACTIONS": {
                   "IMMEDIATELY": {
-                     "TITLE": "Να γίνει άμεσα <span aria-hidden=\"true\">⏱️</span>",
+                     "TITLE": "To do now <span aria-hidden=\"true\">⏱️</span>",
                      "A1": {
-                        "TITLE": "Άλλαξε τον κωδικό πρόσβασής σου",
-                        "SHORT_DESCRIPTION": "Δημιούργησε έναν ισχυρό κωδικό αμέσως",
-                        "LONG_DESCRIPTION": "Δημιούργησε έναν ισχυρό κωδικό πρόσβασης για τον λογαριασμό σου αμέσως. Το FantomApp μπορεί να σε βοηθήσει να ελέγξεις αν ο κωδικός σου είναι εύκολο να βρεθεί."
+                        "TITLE": "Change your password",
+                        "SHORT_DESCRIPTION": "Create a strong password immediately",
+                        "LONG_DESCRIPTION": "Create a strong password for your account right away. FantomApp can help you check if your password is easily discoverable."
                      },
                      "A2": {
-                        "TITLE": "Ενεργοποίησε τον έλεγχο ταυτότητας δύο παραγόντων",
-                        "SHORT_DESCRIPTION": "Πρόσθεσε έναν επιπλέον κωδικό ασφαλείας",
-                        "LONG_DESCRIPTION": "Ο έλεγχος ταυτότητας δύο παραγόντων προσθέτει μια επιπλέον προστασία στον λογαριασμό σου. Ακόμα κι αν κάποιος βρει τον κωδικό σου, δεν θα μπορεί να συνδεθεί χωρίς έναν δεύτερο κωδικό (που λαμβάνεται με SMS ή μέσω εφαρμογής).<br /><span aria-hidden=\"true\">👉</span> Είναι σαν μια δεύτερη κλειδαριά στην πόρτα σου."
+                        "TITLE": "Enable two-factor authentication",
+                        "SHORT_DESCRIPTION": "Add an extra security code",
+                        "LONG_DESCRIPTION": "The two-factor authentication adds an extra protecion to your account. Even if someones finds your password, they won't be able to log-in without a second code (received by text ou via an app).<br /><span aria-hidden=\"true\">👉</span> It's like a second lock to your door."
                      },
                      "A3": {
-                        "TITLE": "Έλεγξε τις πληροφορίες σου",
-                        "SHORT_DESCRIPTION": "Έλεγξε ότι το email και το τηλέφωνό σου δεν έχουν αλλάξει",
-                        "LONG_DESCRIPTION": "<span aria-hidden=\"true\">📲</span> Έχουν τροποποιηθεί οι επαφές, οι δημοσιεύσεις ή τα τραπεζικά στοιχεία σου (αν τα είχες δώσει);<br /><br />Αν δεις έναν αριθμό τηλεφώνου ή μια διεύθυνση που δεν αναγνωρίζεις:<ul style='list-style: disc; margin-left: 2rem;'><li>Πάρε ένα στιγμιότυπο οθόνης ως αποδεικτικό.</li><li>Άλλαξέ τα αμέσως</li></ul>"
+                        "TITLE": "Check your information",
+                        "SHORT_DESCRIPTION": "Check that your email address and phone number were not changed",
+                        "LONG_DESCRIPTION": "<span aria-hidden=\"true\">📲</span> Were your contacts, publications or bank details (if you provided them) modified?<br /><br />If you see a phone number or an address that your don't recognise:<ul style='list-style: disc; margin-left: 2rem;'><li>Take a screenshot to keep as proof.</li><li>Change them immediately</li></ul>"
                      },
                      "A4": {
-                        "TITLE": "Έλεγξε ποιος είναι συνδεδεμένος στον λογαριασμό σου",
-                        "SHORT_DESCRIPTION": "Έλεγξε αν υπάρχουν άγνωστες συσκευές συνδεδεμένες στον λογαριασμό σου",
-                        "LONG_DESCRIPTION": "Πήγαινε στις ρυθμίσεις του λογαριασμού σου και αποσύνδεσε όλες τις συσκευές που ήταν συνδεδεμένες μέχρι τώρα.<br /><span aria-hidden=\"true\">❌</span>  Αν δεις μια συσκευή ή σύνδεση που δεν αναγνωρίζεις:<ul style='list-style: disc; margin-left: 2rem;'><li>Πάρε ένα στιγμιότυπο οθόνης ως αποδεικτικό</li><li>Αποσύνδεσέ την αμέσως</li></ul>"
+                        "TITLE": "Check who's connected to your account",
+                        "SHORT_DESCRIPTION": "Check if any unknown devices are connected to your account",
+                        "LONG_DESCRIPTION": "Go to your account settings and disconnect all devices that were authorised so far.<br /><span aria-hidden=\"true\">❌</span>  If you see a device or connection you don't recognise:<ul style='list-style: disc; margin-left: 2rem;'><li>Take a screenshot to keep as proof</li><li>Disconnect it immediately</li></ul>"
                      }
                   },
                   "LATER": {
-                     "TITLE": "Να γίνει αργότερα",
+                     "TITLE": "To do later",
                      "A1": {
-                        "TITLE": "Ειδοποίησε τους φίλους και τις επαφές σου",
-                        "SHORT_DESCRIPTION": "Μπορεί να λάβουν ή να έχουν λάβει περίεργα μηνύματα",
-                        "LONG_DESCRIPTION": "<span aria-hidden=\"true\">📢</span>  Πες στις επαφές σου (φίλους, οικογένεια...) ότι ο λογαριασμός σου παραβιάστηκε.<br /><span aria-hidden=\"true\">⚠️</span> Μπορεί να λάβουν μηνύματα από κάποιον που παριστάνει εσένα. Πες τους να μην απαντήσουν ή να μην πατήσουν σε κανέναν σύνδεσμο."
+                        "TITLE": "Notify your friends and contacts",
+                        "SHORT_DESCRIPTION": "They may receive or have received strange messages",
+                        "LONG_DESCRIPTION": "<span aria-hidden=\"true\">📢</span>  Tell your contacts (friends, family...) that your account has been hacked.<br /><span aria-hidden=\"true\">⚠️</span> They may receive messages from someone pretending to be you. Tell them not to reply or click on any links."
                      },
                      "A2": {
-                        "TITLE": "Άλλαξε τους άλλους κωδικούς πρόσβασής σου",
-                        "SHORT_DESCRIPTION": "Προστάτευσε τους άλλους λογαριασμούς σου",
-                        "LONG_DESCRIPTION": "Αν χρησιμοποιείς τον ίδιο κωδικό σε άλλους ιστότοπους ή εφαρμογές, άλλαξέ τον και εκεί.<br /><span aria-hidden=\"true\">👉</span> Αυτό θα αποτρέψει την παραβίαση και άλλων λογαριασμών."
+                        "TITLE": "Change your other passwords",
+                        "SHORT_DESCRIPTION": "Protect your other accounts",
+                        "LONG_DESCRIPTION": "If you use the same password on other websites or apps, change it there too.<br /><span aria-hidden=\"true\">👉</span> This will prevent other accounts from being hacked as well."
                      },
                      "A3": {
-                        "TITLE": "Ειδοποίησε την τράπεζά σου",
-                        "SHORT_DESCRIPTION": "Δράσε άμεσα αν τα τραπεζικά σου στοιχεία ήταν στον λογαριασμό",
-                        "LONG_DESCRIPTION": "<span aria-hidden=\"true\">💳</span> Αν τα <strong>τραπεζικά σου στοιχεία</strong> (όπως ο αριθμός της κάρτας σου) ήταν προσβάσιμα στον παραβιασμένο λογαριασμό, πρέπει να το πεις σε έναν ενήλικα αμέσως.<br /> Πρέπει να <strong>ειδοποιήσεις την τράπεζά σου</strong> το συντομότερο δυνατό, και να μπλοκάρεις την κάρτα σου αν χρειαστεί για να αποτρέψεις κλοπή."
+                        "TITLE": "Notify your bank",
+                        "SHORT_DESCRIPTION": "Take action if your bank details were on your account",
+                        "LONG_DESCRIPTION": "<span aria-hidden=\"true\">💳</span> If your <strong>bank details</strong> (clike your card numbner) were accessibles on the hacked account, you have to tell an adult immediately.<br /> You must <strong>notify your bank</strong> as soon as possible, and block your card if necessary to prevent any theft."
                      },
                      "A4": {
-                        "TITLE": "Χρησιμοποίησε διαχειριστή κωδικών",
-                        "SHORT_DESCRIPTION": "Για να ασφαλίσεις τους κωδικούς σου",
-                        "LONG_DESCRIPTION": "<span aria-hidden=\"true\">🔐</span> Ένας διαχειριστής κωδικών είναι μια εφαρμογή ή εργαλείο στο κινητό σου που κρατά όλους τους κωδικούς σου ασφαλείς. Μπορεί επίσης να δημιουργήσει πολύ ισχυρούς κωδικούς για κάθε ιστότοπο ή εφαρμογή και να τους συμπληρώνει αυτόματα όταν συνδέεσαι.<br /><span aria-hidden=\"true\">👉</span> Είναι σαν ένα ψηφιακό χρηματοκιβώτιο για όλους τους λογαριασμούς σου."
+                        "TITLE": "Use a password keeper",
+                        "SHORT_DESCRIPTION": "To secure your passwords",
+                        "LONG_DESCRIPTION": "<span aria-hidden=\"true\">🔐</span> A password keeper is an app or a tool on your phone that keeps all your passwords safe. It can also create very strong passwords for each website or app and fill them in automatically when you log in.<br /><span aria-hidden=\"true\">👉</span> It's like a digital safe for all your accounts."
                      },
                      "A5": {
-                        "TITLE": "Ποτέ μην μοιράζεσαι τον κωδικό σου",
-                        "SHORT_DESCRIPTION": "Είναι καλύτερο να τον κρατάς για τον εαυτό σου",
-                        "LONG_DESCRIPTION": "Κάποιος θα μπορούσε να διαβάσει τα μηνύματά σου, να δημοσιεύσει εκ μέρους σου ή να κλέψει τον λογαριασμό σου.<br />Ο κωδικός σου είναι προσωπικός, όπως το PIN του κινητού σου."
+                        "TITLE": "Never share your password",
+                        "SHORT_DESCRIPTION": "It's best to keep them for yourself",
+                        "LONG_DESCRIPTION": "Someone could read your messages, post on your behalf or steal your account.<br />Your password is personal, just like your phone's passcode."
                      }
                   }
                }
             },
             "NO_ACCESS": {
-               "TITLE": "Δεν έχω πλέον πρόσβαση στον λογαριασμό μου",
+               "TITLE": "I don't have access to my account anymore",
                "CONTACT": {
-                  "TITLE": "<span aria-hidden=\"true\">✉</span>️ Επικοινώνησε με το κοινωνικό δίκτυο",
-                  "DESCRIPTION": "Ξεκίνα επικοινωνώντας με το κοινωνικό δίκτυο για να αναφέρεις ότι ο λογαριασμός σου παραβιάστηκε.<br /><span aria-hidden=\"true\">➡</span>️ Πάτησε στον σύνδεσμο του κοινωνικού δικτύου που χρησιμοποιείς."
+                  "TITLE": "<span aria-hidden=\"true\">✉</span>️ Contact the social media",
+                  "DESCRIPTION": "Start by contacting the social network to report that your account was hacked.<br /><span aria-hidden=\"true\">➡</span>️ Click on the link of the social media you use."
                },
                "SOCIAL_MEDIA": {
                   "INSTAGRAM": {
                      "TITLE": "Instagram",
                      "LINK": {
-                        "TITLE": "Υποβολή αιτήματος βοήθειας στο Instagram",
+                        "TITLE": "Submit a request for assistance on Instagram",
                         "DESCRIPTION": "https://www.instagram.com/hacked/"
                      }
                   },
                   "SNAPCHAT": {
                      "TITLE": "Snapchat",
                      "LINK": {
-                        "TITLE": "Υποβολή αιτήματος – Υποστήριξη Snapchat",
+                        "TITLE": "Submit a request – Snapchat Support",
                         "DESCRIPTION": "https://help.snapchat.com/hc/en-gb/requests/new?co=true&tf_29335679682068=cant_access_account_reason_compromised&ticket_form_id=76586"
                      }
                   },
                   "TIKTOK": {
                      "TITLE": "TikTok",
                      "LINK": {
-                        "TITLE": "Αναφορά προβλήματος | TikTok",
+                        "TITLE": "Report a problem | TikTok",
                         "DESCRIPTION": "https://www.tiktok.com/legal/report/feedback"
                      }
                   },
                   "X": {
                      "TITLE": "X",
                      "LINK": {
-                        "TITLE": "Ο λογαριασμός παραβιάστηκε ή έχει διαρρεύσει",
+                        "TITLE": "The account was hacked or is compromised",
                         "DESCRIPTION": "https://help.x.com/en/forms/account-access/appeals"
                      }
                   },
                   "FACEBOOK": {
                      "TITLE": "Facebook",
                      "LINK": {
-                        "TITLE": "Υποβολή αιτήματος βοήθειας στο Facebook",
+                        "TITLE": "Submit a request for assistance on Facebook",
                         "DESCRIPTION": "https://www.facebook.com/hacked?ref=helpcenter"
                      }
                   }
                },
                "RECOMMENDATIONS": {
-                  "TITLE": "<span aria-hidden=\"true\">👍</span> Ακολούθησε αυτές τις συστάσεις",
-                  "DESCRIPTION": "Ακόμα κι αν δεν έχεις πλέον πρόσβαση στον λογαριασμό σου, μπορείς ακόμα να λάβεις μέτρα. Αυτά τα βήματα θα σε βοηθήσουν να προστατευτείς και να αποτρέψεις να συμβεί ξανά.",
+                  "TITLE": "<span aria-hidden=\"true\">👍</span> Follow these recommendations",
+                  "DESCRIPTION": "Even if you no longer have access to your account, you can still take action. These steps will help protect yourself and prevent it from happening again.",
                   "ACTIONS": {
                      "LATER": {
                         "A1": {
-                           "TITLE": "Ειδοποίησε τους φίλους και τις επαφές σου",
-                           "SHORT_DESCRIPTION": "Μπορεί να λάβουν ή να έχουν λάβει περίεργα μηνύματα",
-                           "LONG_DESCRIPTION": "<span aria-hidden=\"true\">📢</span> Πες στις επαφές σου (φίλους, οικογένεια...) ότι ο λογαριασμός σου παραβιάστηκε.<br /><span aria-hidden=\"true\">⚠️</span> Μπορεί να λάβουν μηνύματα από κάποιον που παριστάνει εσένα. Πες τους να μην απαντήσουν ή να μην πατήσουν σε κανέναν σύνδεσμο."
+                           "TITLE": "Notify your friends and contacts",
+                           "SHORT_DESCRIPTION": "They may receive or have received strange messages",
+                           "LONG_DESCRIPTION": "<span aria-hidden=\"true\">📢</span> Tell your contacts (friends, family...) that your account has been hacked.<br /><span aria-hidden=\"true\">⚠️</span> They may receive messages from someone pretending to be you. Tell them not to reply or click on any links."
                         },
                         "A2": {
-                           "TITLE": "Άλλαξε τους άλλους κωδικούς πρόσβασής σου",
-                           "SHORT_DESCRIPTION": "Προστάτευσε τους άλλους λογαριασμούς σου",
-                           "LONG_DESCRIPTION": "Αν χρησιμοποιείς τον ίδιο κωδικό σε άλλους ιστότοπους ή εφαρμογές, άλλαξέ τον και εκεί.<br /><span aria-hidden=\"true\">👉</span> Αυτό θα αποτρέψει την παραβίαση και άλλων λογαριασμών."
+                           "TITLE": "Change your other passwords",
+                           "SHORT_DESCRIPTION": "Protect your other accounts",
+                           "LONG_DESCRIPTION": "If you use the same password on other websites or apps, change it there too.<br /><span aria-hidden=\"true\">👉</span> This will prevent other accounts from being hacked as well."
                         },
                         "A3": {
-                           "TITLE": "Ειδοποίησε την τράπεζά σου",
-                           "SHORT_DESCRIPTION": "Δράσε άμεσα αν τα τραπεζικά σου στοιχεία ήταν στον λογαριασμό",
-                           "LONG_DESCRIPTION": "<span aria-hidden=\"true\">💳</span> Αν τα <strong>τραπεζικά σου στοιχεία</strong> (όπως ο αριθμός της κάρτας σου) ήταν προσβάσιμα στον παραβιασμένο λογαριασμό, πρέπει να το πεις σε έναν ενήλικα αμέσως.<br /> Πρέπει να <strong>ειδοποιήσεις την τράπεζά σου</strong> το συντομότερο δυνατό, και να μπλοκάρεις την κάρτα σου αν χρειαστεί για να αποτρέψεις κλοπή."
+                           "TITLE": "Notify your bank",
+                           "SHORT_DESCRIPTION": "Take action if your bank details were on your account",
+                           "LONG_DESCRIPTION": "<span aria-hidden=\"true\">💳</span> If your <strong>bank details</strong> (clike your card numbner) were accessibles on the hacked account, you have to tell an adult immediately.<br /> You must <strong>notify your bank</strong> as soon as possible, and block your card if necessary to prevent any theft."
                         },
                         "A4": {
-                           "TITLE": "Χρησιμοποίησε διαχειριστή κωδικών",
-                           "SHORT_DESCRIPTION": "Για να ασφαλίσεις τους κωδικούς σου",
-                           "LONG_DESCRIPTION": "<span aria-hidden=\"true\">🔐</span> Ένας διαχειριστής κωδικών είναι μια εφαρμογή ή εργαλείο στο κινητό σου που κρατά όλους τους κωδικούς σου ασφαλείς. Μπορεί επίσης να δημιουργήσει πολύ ισχυρούς κωδικούς για κάθε ιστότοπο ή εφαρμογή και να τους συμπληρώνει αυτόματα όταν συνδέεσαι.<br /><span aria-hidden=\"true\">👉</span> Είναι σαν ένα ψηφιακό χρηματοκιβώτιο για όλους τους λογαριασμούς σου."
+                           "TITLE": "Use a password keeper",
+                           "SHORT_DESCRIPTION": "To secure your passwords",
+                           "LONG_DESCRIPTION": "<span aria-hidden=\"true\">🔐</span> A password keeper is an app or tool on your phone that keeps all your passwords safe. It can also create very strong passwords for each website or app and fill them in automatically when you log in.<br /><span aria-hidden=\"true\">👉</span> It's like a digital safe for all your accounts."
                         },
                         "A5": {
-                           "TITLE": "Ποτέ μην μοιράζεσαι τους κωδικούς σου",
-                           "SHORT_DESCRIPTION": "Είναι καλύτερο να τους κρατάς για τον εαυτό σου",
-                           "LONG_DESCRIPTION": "Κάποιος θα μπορούσε να διαβάσει τα μηνύματά σου, να δημοσιεύσει εκ μέρους σου ή να κλέψει τον λογαριασμό σου.<br />Ο κωδικός σου είναι προσωπικός, όπως το PIN του κινητού σου."
+                           "TITLE": "Never share your passwords",
+                           "SHORT_DESCRIPTION": "It's best to keep them for yourself",
+                           "LONG_DESCRIPTION": "Someone could read your messages, post on your behalf or steal your account.<br />Your password is personal, just like your phone's passcode."
                         }
                      }
                   }
@@ -606,281 +609,281 @@
       }
    },
    "TOOLS": {
-      "TITLE": "Εργαλεία",
-      "PASSWORD_CHECK_TITLE": "Δοκιμή του κωδικού μου",
-      "PASSWORD_CHECK_DESCRIPTION": "Πόσο χρόνο χρειάζεται ένας κυβερνοεγκληματίας για να τον σπάσει;",
-      "BLUR_IMAGE_TITLE": "Ανωνυμοποίηση της φωτογραφίας μου",
-      "BLUR_IMAGE_DESCRIPTION": "Θόλωμα της εικόνας προφίλ μου",
-      "VISIBILITY_CHECK_TITLE": "Δοκιμή της ορατότητάς μου",
-      "VISIBILITY_CHECK_DESCRIPTION": "Τι αποκαλύπτουν το όνομα χρήστη και το βιογραφικό μου για μένα;",
+      "TITLE": "Outils",
+      "PASSWORD_CHECK_TITLE": "Testing my password",
+      "PASSWORD_CHECK_DESCRIPTION": "How long does it take a cybercriminal to crack it?",
+      "BLUR_IMAGE_TITLE": "Anonymising my picture",
+      "BLUR_IMAGE_DESCRIPTION": "Blurring my profile picture",
+      "VISIBILITY_CHECK_TITLE": "Testing my visibility",
+      "VISIBILITY_CHECK_DESCRIPTION": "What do my username and bio reveal about me?",
       "VISIBILITY_CHECK": {
-         "TITLE": "Δοκιμή της ορατότητάς μου",
-         "DESCRIPTION": "Μπορεί κάποιος να με αναγνωρίσει από το όνομα χρήστη και το βιογραφικό μου;",
+         "TITLE": "Testing my visibility",
+         "DESCRIPTION": "Can someone identify me from my username and my bio?",
          "PSEUDO": {
-            "TITLE": "Τι υπάρχει στο όνομα χρήστη σου;",
+            "TITLE": "What's in your username?",
             "IDENTITY": {
-               "TITLE": "<span aria-hidden=\"true\">🪪</span> Ταυτότητα",
+               "TITLE": "<span aria-hidden=\"true\">🪪</span> Identity",
                "ANSWERS": {
-                  "ANSWER_1_TITLE": "Το πλήρες όνομα ή επώνυμό μου",
-                  "ANSWER_1_DESCRIPTION": "(παράδειγμα: Μαρία)",
-                  "ANSWER_2_TITLE": "Το όνομα ή επώνυμό μου συντετμημένο.",
-                  "ANSWER_2_DESCRIPTION": "(παράδειγμα: Μαρ1)",
-                  "ANSWER_3_TITLE": "Το παρατσούκλι μου",
-                  "ANSWER_4_TITLE": "Η ημερομηνία γέννησής μου"
+                  "ANSWER_1_TITLE": "My full name or surname",
+                  "ANSWER_1_DESCRIPTION": "(example: Martin)",
+                  "ANSWER_2_TITLE": "My name or surname shortened.",
+                  "ANSWER_2_DESCRIPTION": "(example: Mrt1)",
+                  "ANSWER_3_TITLE": "My nickame",
+                  "ANSWER_4_TITLE": "My date of birth"
                }
             },
             "ORIGIN": {
-               "TITLE": "<span aria-hidden=\"true\">🗺</span>️ Γεωγραφική ή πολιτιστική προέλευση",
+               "TITLE": "<span aria-hidden=\"true\">🗺</span>️Geographical or cultural origin",
                "ANSWERS": {
-                  "ANSWER_1_TITLE": "Ο ταχυδρομικός κώδικός μου",
-                  "ANSWER_1_DESCRIPTION": "(παράδειγμα: 11526 ή 54321)",
-                  "ANSWER_2_TITLE": "Πού μένω ή από πού κατάγομαι",
-                  "ANSWER_2_DESCRIPTION": "(Πόλη, περιοχή, χώρα, emoji σημαίας.)"
+                  "ANSWER_1_TITLE": "My postcode",
+                  "ANSWER_1_DESCRIPTION": "(example: 34 or 49300)",
+                  "ANSWER_2_TITLE": "Where I live or where I come from",
+                  "ANSWER_2_DESCRIPTION": "(City, region, country, flag emoji.)"
                }
             }
          },
          "BIO": {
-            "TITLE": "Τι υπάρχει στο βιογραφικό σου;",
+            "TITLE": "What's in your bio?",
             "EMPTY": {
                "ANSWERS": {
-                  "ANSWER_1_TITLE": "Δεν έχω γράψει τίποτα στο βιογραφικό μου"
+                  "ANSWER_1_TITLE": "I have not written anything in my bio"
                }
             },
             "IDENTITY": {
-               "TITLE": "<span aria-hidden=\"true\">🪪</span> Ταυτότητα",
+               "TITLE": "<span aria-hidden=\"true\">🪪</span> Identity",
                "ANSWERS": {
-                  "ANSWER_1_TITLE": "Το πλήρες όνομα ή επώνυμό μου",
-                  "ANSWER_1_DESCRIPTION": "(παράδειγμα: Μαρία)",
-                  "ANSWER_2_TITLE": "Το όνομα ή επώνυμό μου συντετμημένο.",
-                  "ANSWER_2_DESCRIPTION": "(παράδειγμα: Μαρ1)",
-                  "ANSWER_3_TITLE": "Το παρατσούκλι μου",
-                  "ANSWER_4_TITLE": "Η ημερομηνία γέννησής μου"
+                  "ANSWER_1_TITLE": "My full name or surname",
+                  "ANSWER_1_DESCRIPTION": "(example: Martin)",
+                  "ANSWER_2_TITLE": "My name or surname shortened.",
+                  "ANSWER_2_DESCRIPTION": "(example: Mrt1)",
+                  "ANSWER_3_TITLE": "My nickame",
+                  "ANSWER_4_TITLE": "My date of birth"
                }
             },
             "ORIGIN": {
-               "TITLE": "<span aria-hidden=\"true\">🗺</span>️ Γεωγραφική ή πολιτιστική προέλευση",
+               "TITLE": "<span aria-hidden=\"true\">🗺</span>️ Geographical or cultural origin",
                "ANSWERS": {
-                  "ANSWER_1_TITLE": "Ο ταχυδρομικός κώδικός μου",
-                  "ANSWER_1_DESCRIPTION": "(παράδειγμα: 11526 ή 54321)",
-                  "ANSWER_2_TITLE": "Πού μένω ή από πού κατάγομαι",
-                  "ANSWER_2_DESCRIPTION": "(Πόλη, περιοχή, χώρα, emoji σημαίας.)"
+                  "ANSWER_1_TITLE": "My postcode",
+                  "ANSWER_1_DESCRIPTION": "(example: 34 or 49300)",
+                  "ANSWER_2_TITLE": "Where I live or where I come from",
+                  "ANSWER_2_DESCRIPTION": "(City, region, country, flag emoji.)"
                }
             },
             "DIGITAL_LIFE": {
-               "TITLE": "<span aria-hidden=\"true\">👥</span> Ψηφιακή ζωή",
+               "TITLE": "<span aria-hidden=\"true\">👥</span> Digital life",
                "ANSWERS": {
-                  "ANSWER_1_TITLE": "Σύνδεσμοι στους άλλους λογαριασμούς κοινωνικών δικτύων μου.",
+                  "ANSWER_1_TITLE": "Links to my other social media accounts.",
                   "ANSWER_1_DESCRIPTION": "(X, Instagram, TikTok, Snapchat).",
-                  "ANSWER_2_TITLE": "Λογαριασμοί του στενού κύκλου μου",
-                  "ANSWER_2_DESCRIPTION": "(Φίλοι, οικογένεια, σύντροφος...)"
+                  "ANSWER_2_TITLE": "My close circle accounts",
+                  "ANSWER_2_DESCRIPTION": "(Friends, family, lover...)"
                }
             },
             "INTEREST": {
-               "TITLE": "<span aria-hidden=\"true\">🎭</span> Ενδιαφέροντα",
+               "TITLE": "<span aria-hidden=\"true\">🎭</span> Interests",
                "ANSWERS": {
-                  "ANSWER_1_TITLE": "Ένας σύνδεσμος στην ομάδα μου ή σε σύλλογο που συμμετέχω.",
-                  "ANSWER_1_DESCRIPTION": "(π.χ.: @VolleyAthens)"
+                  "ANSWER_1_TITLE": "A link to my club or an association I'm part of.",
+                  "ANSWER_1_DESCRIPTION": "(ie: @VolleyValences)"
                }
             },
             "EDUCATION_PRO": {
-               "TITLE": "<span aria-hidden=\"true\">🏫</span> Εκπαίδευση ή επάγγελμα",
+               "TITLE": "<span aria-hidden=\"true\">🏫</span> Education or occupation",
                "ANSWERS": {
-                  "ANSWER_1_TITLE": "Μια αναφορά στο σχολείο ή την εταιρεία μου.",
-                  "ANSWER_2_TITLE": "Οι δεξιότητες ή οι σπουδές μου",
-                  "ANSWER_2_DESCRIPTION": "(Μαθητευόμενος αρτοποιός, Φοιτητής ιατρικής…)"
+                  "ANSWER_1_TITLE": "A mention of my school or company.",
+                  "ANSWER_2_TITLE": "My skills or cursus",
+                  "ANSWER_2_DESCRIPTION": "(Baker's apprentice, Medical student…)"
                }
             }
          },
          "RESULTS": {
-            "TITLE": "Τα αποτελέσματά σου",
+            "TITLE": "Your results",
             "SUMMARY": {
                "GOOD": {
-                  "TITLE": "Μπράβο! <span aria-hidden=\"true\">🥷</span>",
-                  "CONTENT": "Το προφίλ σου δεν επιτρέπει να γνωρίζουν ποιος/ποια είσαι στα κοινωνικά δίκτυα, ή εκτός σύνδεσης."
+                  "TITLE": "Good job! <span aria-hidden=\"true\">🥷</span>",
+                  "CONTENT": "You profile doesn't allow to know who you are on social media, or offline."
                },
                "OK": {
-                  "TITLE": "Όχι άσχημα! <span aria-hidden=\"true\">🥸</span>",
-                  "CONTENT": "Υπάρχουν ακόμα μερικά στοιχεία για να μαντέψουν ποιος/ποια είσαι στην πραγματική ζωή. Εδώ, μπορείς να δώσεις ακόμα λιγότερες πληροφορίες για σένα:"
+                  "TITLE": "Not bad! <span aria-hidden=\"true\">🥸</span>",
+                  "CONTENT": "There are still some clues to guess who you are irl. Here, you can give even less information about you:"
                },
                "BAD": {
-                  "TITLE": "Προσοχή! <span aria-hidden=\"true\">🧐</span>",
-                  "CONTENT": "Το προφίλ σου περιέχει πολλές πληροφορίες για σένα. Πρόσεχε, κάποιοι άνθρωποι μπορεί να χρησιμοποιήσουν αυτές τις πληροφορίες, να προσποιηθούν ότι είναι φίλοι σου ή να βλάψουν τη φήμη σου."
+                  "TITLE": "Careful! <span aria-hidden=\"true\">🧐</span>",
+                  "CONTENT": "Your profile contains a lot of information about you. Be careful, some people might use this information, pretend to be your friends or damage your reputation."
                }
             },
             "PSEUDO": {
-               "TITLE": "Το όνομα χρήστη σου υποδεικνύει"
+               "TITLE": "Your username indicates"
             },
             "BIO": {
-               "TITLE": "Το βιογραφικό σου υποδεικνύει"
+               "TITLE": "Your bio indicates"
             },
             "STATE": {
-               "PUBLIC": "ΔΗΜΟΣΙΟ <span aria-hidden=\"true\">👀</span>",
-               "DISCREET": "ΔΙΑΚΡΙΤΙΚΟ <span aria-hidden=\"true\">🙈</span>️",
-               "INVISIBLE": "ΑΟΡΑΤΟ <span aria-hidden=\"true\">👻</span>"
+               "PUBLIC": "PUBLIC <span aria-hidden=\"true\">👀</span>",
+               "DISCREET": "DISCREET <span aria-hidden=\"true\">🙈</span>️",
+               "INVISIBLE": "INVISIBLE <span aria-hidden=\"true\">👻</span>"
             },
-            "NO_PERSONAL_INFO": "Καμία προσωπική πληροφορία!"
+            "NO_PERSONAL_INFO": "No personal info!"
          }
       },
       "BLUR_IMAGE": {
-         "TITLE": "Θόλωση της φωτογραφίας μου",
-         "DESCRIPTION": "Θόλωμα ή πιξελάρισμα της φωτογραφίας προφίλ μου για περιορισμό της αναγνώρισής μου στο διαδίκτυο.",
-         "EDITING_TITLE": "Περιοχή επεξεργασίας της εισαγόμενης φωτογραφίας",
-         "ADVICE": "<span aria-hidden=\"true\">💡</span> <strong>Συμβουλή</strong>: Αν θολώσεις τη φωτογραφία σου για να τη χρησιμοποιήσεις ως φωτογραφία προφίλ, μην την επαναχρησιμοποιήσεις αλλού αθόλωτη<br /><span aria-hidden=\"true\"><span aria-hidden=\"true\">💡</span></span> <strong>Καλό είναι να ξέρεις</strong>: Το FantomApp δεν αποθηκεύει καμία φωτογραφία που εισάγεις εδώ",
-         "UPLOAD_IMAGE": "Εισαγωγή φωτογραφίας <span aria-hidden=\"true\">🤳</span>",
-         "BLUR": "Θόλωμα",
-         "PIXELATE": "Πιξελάρισμα",
-         "ALL_BLUR": "Θόλωμα όλων",
-         "BRUSH_SIZE": "Μέγεθος θολώματος",
-         "GLOBAL_BLUR_INFO": "Μπορείς να θολώσεις ολόκληρη την εικόνα με αυτό το κουμπί. Πατώντας το ανοίγει μια λίστα ποσοστών θολώματος για να επιλέξεις την ένταση.",
-         "MODIFICATION_DONE": "Η τροποποίηση ολοκληρώθηκε",
-         "UNDO": "Annuler la dernière modification",
-         "REDO": "Rétablir la modification",
-         "ACTIONS_TOOLBAR": "Mode de floutage",
-         "BLUR_PERCENT": "Flouter toute l'image à {{percent}} pour cent",
+         "TITLE": "Anonymising my picture",
+         "DESCRIPTION": "Blurring or pixelating my profile picture to limit my identification online.",
+         "EDITING_TITLE": "Editing area of the imported photo",
+         "ADVICE": "<span aria-hidden=\"true\">💡</span> <strong>Advice</strong>: If you blur your picture to use it as a profile picture, don't reuse it elsewhere unblurred<br /><span aria-hidden=\"true\"><span aria-hidden=\"true\">💡</span></span> <strong>Good to know</strong>: FantomApp doesn't save any photo you import here",
+         "UPLOAD_IMAGE": "Import a picture <span aria-hidden=\"true\">🤳</span>",
+         "BLUR": "Blur",
+         "PIXELATE": "Pixelate",
+         "ALL_BLUR": "Blur everything",
+         "BRUSH_SIZE": "Size of the blur",
+         "GLOBAL_BLUR_INFO": "You can blur the entire image with this button. Clicking it opens a list of blur percentages to choose the intensity.",
+         "MODIFICATION_DONE": "Modification completed",
+         "UNDO": "Undo last change",
+         "REDO": "Redo change",
+         "ACTIONS_TOOLBAR": "Blur mode",
+         "BLUR_PERCENT": "Blur entire image at {{percent}} percent",
          "TUTORIAL": {
-            "DESCRIPTION": "Σύρε το δάχτυλό σου στην εικόνα για να τη θολώσεις."
+            "DESCRIPTION": "Slide your finger on the image to blur it."
          }
       },
       "PASSWORD_CHECK": {
-         "TITLE": "Δοκιμή του κωδικού μου",
-         "DESCRIPTION_PART1": "Πόσο χρόνο χρειάζεται ένας κυβερνοεγκληματίας για να τον σπάσει με",
-         "DESCRIPTION_PART2": ";",
-         "FOCUS_ACCESSIBLE_TITLE": "Δοκιμή του κωδικού μου - πεδίο εισαγωγής",
+         "TITLE": "Testing my password",
+         "DESCRIPTION_PART1": "How long does it take a cybercriminal to crack it by",
+         "DESCRIPTION_PART2": "?",
+         "FOCUS_ACCESSIBLE_TITLE": "Testing my password - input field",
          "DESCRIPTION_TOOLTIP": {
-            "TITLE": "ωμή βία (brute force)",
-            "ARIA_LABEL": "Qu'est-ce qu'une attaque par force brute ?",
-            "CONTENT": "Μια επίθεση <strong>ωμής βίας</strong> συνίσταται στη δοκιμή, έναν προς έναν, κάθε πιθανού συνδυασμού ενός κωδικού πρόσβασης. (πηγή: <a href='https://www.cnil.fr/fr/definition/force-brute-attaque-informatique' target='_blank'>cnil.fr</a>)"
+            "TITLE": "brute force",
+            "ARIA_LABEL": "What is a brute force attack?",
+            "CONTENT": "A <strong>brute force attack</strong> consists of testing, one by one, each possible combination of a password. (source: <a href='https://www.cnil.fr/fr/definition/force-brute-attaque-informatique' target='_blank'>cnil.fr</a>)"
          },
-         "CRIMINAL_GUESSES": "Ένας κυβερνοεγκληματίας τον μαντεύει σε:",
-         "ASSESSMENT_TEXT": "Ο κωδικός σου:",
-         "INPUT_LABEL": "Κωδικός πρόσβασης",
-         "CHECKBOX_LABEL": "<span aria-hidden=\"true\">🧐❓</span> Περιέχει το <strong>όνομα</strong>, <strong>επώνυμο</strong>, ή <strong>εύκολες λέξεις</strong>",
-         "COPY_PASSWORD": "Αντιγραφή κωδικού",
-         "COPIED": "Αντιγράφηκε!",
+         "CRIMINAL_GUESSES": "A cybercriminal guesses it in:",
+         "ASSESSMENT_TEXT": "Your password:",
+         "INPUT_LABEL": "Password",
+         "CHECKBOX_LABEL": "<span aria-hidden=\"true\">🧐❓</span> Contains my <strong>first name</strong>, <strong>last name</strong>, or <strong>easy-to-guess words</strong>",
+         "COPY_PASSWORD": "Copy the password",
+         "COPIED": "Copied!",
          "BADGES": {
-            "IMMEDIATE": "ΕΙΝΑΙ ΑΜΕΣΟ <span aria-hidden=\"true\">⚠️</span>",
-            "RAPID": "ΜΠΟΡΕΙΣ ΚΑΙ ΚΑΛΥΤΕΡΑ <span aria-hidden=\"true\">👇</span>",
-            "CORRECT": "ΕΙΝΑΙ ΕΝΤΑΞΕΙ <span aria-hidden=\"true\">🙂</span>",
-            "SUPER": "ΕΙΝΑΙ ΤΕΛΕΙΟ <span aria-hidden=\"true\">😎</span>"
+            "IMMEDIATE": "IT'S IMMEDIATE <span aria-hidden=\"true\">⚠️</span>",
+            "RAPID": "YOU CAN DO EVEN BETTER <span aria-hidden=\"true\">👇</span>",
+            "CORRECT": "IT'S OKAY <span aria-hidden=\"true\">🙂</span>",
+            "SUPER": "IT'S GREAT <span aria-hidden=\"true\">😎</span>"
          },
          "CRITERIA": {
-            "MIN_LENGTH": "Τουλάχιστον 12 χαρακτήρες",
-            "UPPERCASE": "Τουλάχιστον 1 κεφαλαίο",
-            "LOWERCASE": "Τουλάχιστον 1 πεζό",
-            "DIGIT": "Τουλάχιστον 1 αριθμό",
-            "SPECIAL_CHAR": "Τουλάχιστον 1 ειδικό χαρακτήρα",
-            "NO_EASY_CLUES": "Χωρίς εύκολα στοιχεία (επώνυμο, όνομα, κοινή λέξη)",
-            "CRITERIA_VALIDATED": "Κριτήριο επικυρώθηκε",
-            "CRITERIA_NOT_VALIDATED": "Κριτήριο δεν επικυρώθηκε"
+            "MIN_LENGTH": "Minimum 12 characters",
+            "UPPERCASE": "At least 1 uppercase",
+            "LOWERCASE": "At least 1 lowercase",
+            "DIGIT": "At least 1 number",
+            "SPECIAL_CHAR": "At least 1 special character",
+            "NO_EASY_CLUES": "No easy clues (last name, first name, common word)",
+            "CRITERIA_VALIDATED": "Criterion validated",
+            "CRITERIA_NOT_VALIDATED": "Criterion not validated"
          },
          "BUTTONS": {
-            "WHAT_IS_GOOD_PASSWORD": "Τι σημαίνει καλός κωδικός;",
-            "TEST_PASSWORD": "Δοκιμή του κωδικού μου <span aria-hidden=\"true\">🔒</span>",
-            "STRENGTHEN_PASSWORD": "Ενίσχυση του κωδικού μου"
+            "WHAT_IS_GOOD_PASSWORD": "What's a good password?",
+            "TEST_PASSWORD": "Testing my password <span aria-hidden=\"true\">🔒</span>",
+            "STRENGTHEN_PASSWORD": "Reinforcing my password"
          },
          "MODALS": {
             "ONBOARDING": {
-               "TITLE": "Πώς λειτουργεί;",
-               "STEP_1": "<span aria-hidden=\"true\">🔐</span> <strong>Βήμα 1</strong>: Γράψε τον κωδικό σου στο σχετικό πεδίο.",
-               "STEP_2": "<span aria-hidden=\"true\">🧪</span> <strong>Βήμα 2</strong>: Πάτησε \"Δοκιμή του κωδικού μου\".",
-               "STEP_3": "⏱️ <strong>Βήμα 3</strong>: Και ορίστε! Μπορείς να δεις πόσο χρόνο θα έπαιρνε σε έναν κυβερνοεγκληματία να σπάσει τον κωδικό σου… και να αποκτήσει πρόσβαση στα προσωπικά σου δεδομένα!",
-               "NOTE": "Το FantomApp δεν κρατά καμία πληροφορία.",
-               "UNDERSTOOD": "Το κατάλαβα"
+               "TITLE": "How does it works?",
+               "STEP_1": "<span aria-hidden=\"true\">🔐</span> <strong>Step 1</strong>: Write your password in the designed field.",
+               "STEP_2": "<span aria-hidden=\"true\">🧪</span> <strong>Step 2</strong>: Click on \"Test my password\".",
+               "STEP_3": "⏱️ <strong>Step 3</strong>: And there you have it! You can see how long it would take cybercriminal to crack your password… and access your personal data!",
+               "NOTE": "FantomApp doesn't retain any information.",
+               "UNDERSTOOD": "Got it"
             },
             "PASSWORD_INFO": {
-               "TITLE": "Ένας ισχυρός κωδικός είναι:",
-               "CLOSE": "Κλείσιμο",
-               "REQUIREMENTS_LIST": "Λίστα απαιτήσεων για ισχυρό κωδικό",
+               "TITLE": "A strong password is:",
+               "CLOSE": "Close",
+               "REQUIREMENTS_LIST": "List of requirements for a strong password",
                "REQUIREMENTS": {
-                  "LENGTH": "12 χαρακτήρες",
-                  "DIGITS": "1 ή περισσότεροι αριθμοί",
-                  "UPPERCASE": "κεφαλαία",
-                  "LOWERCASE": "πεζά",
-                  "SPECIAL_CHARS": "ειδικοί χαρακτήρες (*, @, !)"
+                  "LENGTH": "12 characters",
+                  "DIGITS": "1 or more numbers",
+                  "UPPERCASE": "uppercases",
+                  "LOWERCASE": "lowercases",
+                  "SPECIAL_CHARS": "special characters (*, @, !)"
                },
-               "WARNINGS_SECTION": "Συμβουλές για επιλογή ασφαλούς κωδικού",
+               "WARNINGS_SECTION": "Tips for choosing a secure password",
                "WARNINGS": {
-                  "CRIMINALS_USE_DB": "<span aria-hidden=\"true\">🏴☠️</span>‍ Οι κυβερνοεγκληματίες χρησιμοποιούν όλες τις υπάρχουσες <strong>βάσεις δεδομένων λέξεων</strong>, σε όλες τις γλώσσες.",
-                  "NO_DICTIONARY": "<span aria-hidden=\"true\">⛔</span>‍ Καμία λέξη από το λεξικό, το όνομα ή το επώνυμό σου για τη δημιουργία του κωδικού σου"
+                  "CRIMINALS_USE_DB": "<span aria-hidden=\"true\">🏴☠️</span>‍ Cybercriminals use all existing <strong>word databases</strong>, in all languages.",
+                  "NO_DICTIONARY": "<span aria-hidden=\"true\">⛔</span>‍ No words from the dictionary, your name or surname to create your password"
                }
             }
          },
          "TIME_UNITS": {
-            "INSTANT": "Άμεσα",
-            "MINUTES": "λεπτά",
-            "HOURS": "ώρες",
-            "DAY": "μέρα",
-            "DAYS": "μέρες",
-            "WEEK": "εβδομάδα",
-            "WEEKS": "εβδομάδες",
-            "MONTH": "μήνας",
-            "MONTHS": "μήνες",
-            "YEAR": "année",
-            "YEARS": "χρόνια",
-            "THOUSAND_YEARS": "χιλιάδες χρόνια",
-            "MILLION_YEARS": "εκατομμύρια χρόνια",
-            "BILLION_YEARS": "δισεκατομμύρια χρόνια",
-            "TRILLION_YEARS": "τρισεκατομμύρια χρόνια",
-            "QUADRILLION_YEARS": "τετράκις εκατομμύρια χρόνια",
-            "QUINTILLION_YEARS": "πεντάκις εκατομμύρια χρόνια"
+            "INSTANT": "Instantaneous",
+            "MINUTES": "minutes",
+            "HOURS": "hours",
+            "DAY": "day",
+            "DAYS": "days",
+            "WEEK": "week",
+            "WEEKS": "weeks",
+            "MONTH": "month",
+            "MONTHS": "months",
+            "YEAR": "year",
+            "YEARS": "years",
+            "THOUSAND_YEARS": "thousand years",
+            "MILLION_YEARS": "million years",
+            "BILLION_YEARS": "billion years",
+            "TRILLION_YEARS": "trillions years",
+            "QUADRILLION_YEARS": "quadrillions years",
+            "QUINTILLION_YEARS": "quintillions years"
          }
       }
    },
    "SECURE_MYSELF": {
       "VIEW_ALL": {
          "TUTORIAL": {
-            "TITLE": "Πώς λειτουργεί;",
-            "DESCRIPTION": "Όταν αλλάξεις μια ρύθμιση, τσέκαρε το πεδίο <strong>για να θυμάσαι</strong> τι έχεις ήδη ασφαλίσει στον λογαριασμό σου!"
+            "TITLE": "How does it works?",
+            "DESCRIPTION": "When you have changed a setting, tick the box <strong>to remind yourself</strong> what you already secured on your account!"
          }
       }
    },
    "ALT_TEXT": {
       "HEADER": {
-         "CURRENT_LANGUAGE": "Τρέχουσα γλώσσα: {{language}}",
-         "CURRENT_DEVICE": "Τρέχουσα συσκευή: {{device}}",
-         "NO_DEVICE_SELECTED": "Appareil activé : aucun sélectionné",
+         "CURRENT_LANGUAGE": "Current language: {{language}}",
+         "CURRENT_DEVICE": "Active device: {{device}}",
+         "NO_DEVICE_SELECTED": "No device selected",
          "DEVICE_IOS": "iOS",
          "DEVICE_ANDROID": "Android",
          "DEVICE_WEB": "Web"
       },
       "CONTACT": {
-         "PHONE": "Επικοινωνία μέσω τηλεφώνου",
-         "WHATSAPP": "Επικοινωνία μέσω WhatsApp",
-         "SMS": "Επικοινωνία μέσω SMS",
-         "EMAIL": "Επικοινωνία μέσω email",
-         "SUPPORT_3018": "Μίλα με τη γραμμή βοήθειας"
+         "PHONE": "Contact by phone",
+         "WHATSAPP": "Contact by WhatsApp",
+         "SMS": "Contact by SMS",
+         "EMAIL": "Contact by email",
+         "SUPPORT_3018": "Talk with the hotline"
       },
       "GENERAL": {
-         "FLAG": "Σημαία"
+         "FLAG": "Flag"
       },
       "TOOLS": {
          "PASSWORD_CHECK": {
             "CRITERIA": {
-               "CRITERIA_VALIDATED": "περιέχει",
-               "CRITERIA_NOT_VALIDATED": "δεν περιέχει"
+               "CRITERIA_VALIDATED": "contains",
+               "CRITERIA_NOT_VALIDATED": "does not contain"
             },
             "INPUT": {
                "EYE_BUTTON": {
-                  "SHOW": "Εμφάνιση κωδικού",
-                  "HIDE": "Απόκρυψη κωδικού"
+                  "SHOW": "Show the password",
+                  "HIDE": "Hide the password"
                },
                "COPY_BUTTON": {
-                  "COPY": "Αντιγραφή κωδικού"
+                  "COPY": "Copy the password"
                }
             }
          },
          "BLUR_IMAGE": {
-            "IMAGE_ALT": "Εισαγωγή φωτογραφίας"
+            "IMAGE_ALT": "Import a photo"
          }
       },
       "ENRICHED_LINK": {
-         "ARIA_LABEL": "Σύνδεσμος που ανακατευθύνει σε εξωτερική σελίδα"
+         "ARIA_LABEL": "Link that redirects to an external page"
       },
       "TILE_CALL": {
-         "ARIA_LABEL": "Σύνδεσμος που ανακατευθύνει στη λειτουργία τηλεφωνικής κλήσης"
+         "ARIA_LABEL": "Link that redirects to the phone call function"
       },
       "TILE_MESSAGE": {
-         "ARIA_LABEL": "Σύνδεσμος που ανακατευθύνει στη λειτουργία αποστολής SMS"
+         "ARIA_LABEL": "Link that redirects to the SMS sending function"
       },
       "ONBOARDING": {
          "LOGO_FANTOMAPP": "FantomApp"
