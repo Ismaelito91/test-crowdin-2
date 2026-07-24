@@ -8,9 +8,9 @@
       "UPDATE_APP": "Ενημέρωση εφαρμογής"
    },
    "NO_CONNECTION": {
-      "TITLE": "",
-      "TEXT": "",
-      "CTA": ""
+      "TITLE": "Ça fait longtemps !",
+      "TEXT": "FantomApp a besoin d'une connexion Internet pour se remettre à jour. Reconnecte-toi puis réessaie.",
+      "CTA": "Réessayer"
    },
    "COMMON": {
       "ORGANISATION": "DPA",
@@ -23,8 +23,8 @@
       "BACK": "Πίσω",
       "NEXT": "Επόμενο",
       "PREVIOUS": "Προηγούμενο",
-      "CAROUSEL_PREVIOUS": "",
-      "CAROUSEL_NEXT": "",
+      "CAROUSEL_PREVIOUS": "Précédent : {{slide}}",
+      "CAROUSEL_NEXT": "Suivant : {{slide}}",
       "RESULTS": "Αποτελέσματα",
       "HOME": "Αρχική",
       "PROBLEM": "Πρόβλημα",
@@ -412,9 +412,6 @@
                   },
                   "CALL": {
                      "TITLE": "Γραμμή βοήθειας"
-                  },
-                  "MESSAGE": {
-                     "TITLE": "Γραμμή βοήθειας"
                   }
                },
                "P3": {
@@ -736,13 +733,13 @@
          "BRUSH_SIZE": "Μέγεθος θολώματος",
          "GLOBAL_BLUR_INFO": "Μπορείς να θολώσεις ολόκληρη την εικόνα με αυτό το κουμπί. Πατώντας το ανοίγει μια λίστα ποσοστών θολώματος για να επιλέξεις την ένταση.",
          "MODIFICATION_DONE": "Η τροποποίηση ολοκληρώθηκε",
-         "UNDO": "",
-         "REDO": "",
+         "UNDO": "Annuler la dernière modification",
+         "REDO": "Rétablir la modification",
+         "ACTIONS_TOOLBAR": "Mode de floutage",
+         "BLUR_PERCENT": "Flouter toute l'image à {{percent}} pour cent",
          "TUTORIAL": {
             "DESCRIPTION": "Σύρε το δάχτυλό σου στην εικόνα για να τη θολώσεις."
-         },
-         "ACTIONS_TOOLBAR": "",
-         "BLUR_PERCENT": ""
+         }
       },
       "PASSWORD_CHECK": {
          "TITLE": "Δοκιμή του κωδικού μου",
@@ -751,8 +748,8 @@
          "FOCUS_ACCESSIBLE_TITLE": "Δοκιμή του κωδικού μου - πεδίο εισαγωγής",
          "DESCRIPTION_TOOLTIP": {
             "TITLE": "ωμή βία (brute force)",
-            "CONTENT": "Μια επίθεση <strong>ωμής βίας</strong> συνίσταται στη δοκιμή, έναν προς έναν, κάθε πιθανού συνδυασμού ενός κωδικού πρόσβασης. (πηγή: <a href='https://www.cnil.fr/fr/definition/force-brute-attaque-informatique' target='_blank'>cnil.fr</a>)",
-            "ARIA_LABEL": ""
+            "ARIA_LABEL": "Qu'est-ce qu'une attaque par force brute ?",
+            "CONTENT": "Μια επίθεση <strong>ωμής βίας</strong> συνίσταται στη δοκιμή, έναν προς έναν, κάθε πιθανού συνδυασμού ενός κωδικού πρόσβασης. (πηγή: <a href='https://www.cnil.fr/fr/definition/force-brute-attaque-informatique' target='_blank'>cnil.fr</a>)"
          },
          "CRIMINAL_GUESSES": "Ένας κυβερνοεγκληματίας τον μαντεύει σε:",
          "ASSESSMENT_TEXT": "Ο κωδικός σου:",
@@ -818,6 +815,7 @@
             "WEEKS": "εβδομάδες",
             "MONTH": "μήνας",
             "MONTHS": "μήνες",
+            "YEAR": "année",
             "YEARS": "χρόνια",
             "THOUSAND_YEARS": "χιλιάδες χρόνια",
             "MILLION_YEARS": "εκατομμύρια χρόνια",
@@ -840,10 +838,10 @@
       "HEADER": {
          "CURRENT_LANGUAGE": "Τρέχουσα γλώσσα: {{language}}",
          "CURRENT_DEVICE": "Τρέχουσα συσκευή: {{device}}",
-         "NO_DEVICE_SELECTED": "",
-         "DEVICE_IOS": "",
-         "DEVICE_ANDROID": "",
-         "DEVICE_WEB": ""
+         "NO_DEVICE_SELECTED": "Appareil activé : aucun sélectionné",
+         "DEVICE_IOS": "iOS",
+         "DEVICE_ANDROID": "Android",
+         "DEVICE_WEB": "Web"
       },
       "CONTACT": {
          "PHONE": "Επικοινωνία μέσω τηλεφώνου",
@@ -854,21 +852,6 @@
       },
       "GENERAL": {
          "FLAG": "Σημαία"
-      },
-      "COUNTRIES": {
-         "FRANCE": "Γαλλικά",
-         "IRELAND": "Αγγλικά",
-         "HUNGARY": "Ουγγρικά",
-         "GREECE": "Ελληνικά",
-         "DENMARK": "Δανικά",
-         "POLAND": "Πολωνικά",
-         "PORTUGAL": "Πορτογαλικά",
-         "SPAIN": "Ισπανικά",
-         "CATALONIA": "Καταλανικά",
-         "BELGIUM_FRENCH": "Français (Belgique)",
-         "BELGIUM_DUTCH": "Nederlands (België)",
-         "LUXEMBOURG": "Λουξεμβουργιανά",
-         "INTERNATIONAL": "Διεθνές"
       },
       "TOOLS": {
          "PASSWORD_CHECK": {
