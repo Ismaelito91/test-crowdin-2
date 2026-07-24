@@ -1,8 +1,7 @@
 {
    "APP": {
-      "TITLE": "FantomApp",
+      "TITLE": "",
       "LOADING": "Loading...",
-
       "ERROR": "Fejl ved indlæsning af program",
       "INSTALL_APP": "Install the app'",
       "NEW_VERSION_AVAILABLE": "New version available",
@@ -68,7 +67,7 @@
       "START_USING": "Start using it",
       "TAP_TO_CONTINUE": "Tap to continue",
       "WELCOME_TO": "Welcome to",
-      "GHOST_MODE_EXPLANATION": "Here you surf on <span class=\"ghost-mode\">ghost mode</span>, no one knows you're here. None of your information is recorded. You're free to explore how to protect your privacy.",
+      "GHOST_MODE_EXPLANATION": "Her surfer du i <span class=\"ghost-mode\">ghost-mode</span> – ingen ved, at du er her. Ingen af ​​dine oplysninger registreres. Du kan frit udforske, hvordan du beskytter dit privatliv.",
       "PROGRESS": "Onboarding progress",
       "GO_TO_STEP": "Go to step",
       "COMPLETED_STEP": "Completed step",
