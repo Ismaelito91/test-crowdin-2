@@ -2,6 +2,7 @@
    "APP": {
       "TITLE": "FantomApp",
       "LOADING": "Loading...",
+
       "ERROR": "Fejl ved indlæsning af program",
       "INSTALL_APP": "Install the app'",
       "NEW_VERSION_AVAILABLE": "New version available",
