@@ -2,6 +2,7 @@
    "APP": {
       "TITLE": "",
       "LOADING": "Loading...",
+
       "ERROR": "Fejl ved indlæsning af program",
       "INSTALL_APP": "Install the app'",
       "NEW_VERSION_AVAILABLE": "New version available",
@@ -35,13 +36,13 @@
       "UNDERSTOOD": "Got it",
       "DOWNLOAD": "Download",
       "COPY": "Copy",
-      "COPIED": "Copied!",
+      "COPIED": "Kopieret!",
       "OR": "or",
       "ACTIVE": "Active",
       "ARIA_LABEL": {
-         "HOME": "Go to Home",
-         "PROBLEM": "Go to Problem",
-         "TOOLS": "Go to Tools",
+         "HOME": "Gå til forsiden",
+         "PROBLEM": "",
+         "TOOLS": "",
          "SECURE": "Go to Secure myself",
          "MAIN_NAV": "Main menu"
       }
